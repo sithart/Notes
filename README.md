@@ -58,6 +58,14 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
 + []()
 + []()
++ []()
+
+#### Bootstrap
++ [Blackrock Digital](https://github.com/BlackrockDigital?tab=repositories)
++ []()
++ []()
++ []()
+
 #### Following
 + [Joshua Levy](https://github.com/jlevy?tab=repositories)
 + [Kale Franz](https://github.com/kalefranz)
@@ -86,7 +94,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 #### Swift
 + [The simplest abstraction to synchronize local data with remote source. For iOS, wirtten in swift.](https://github.com/ladeiko/OneWaySynchronizer)
 + [Implementing Local database sync with remote database](https://forums.swift.org/t/implementing-local-database-sync-with-remote-database/20595)
-+ []()
+#### OpenStack swift
++ [python-swiftclient](https://github.com/FredHutch/python-swiftclient/tree/57ecf5034b1f58566fe06b6ddfde3d932dbf207b/swiftclient)
 + []()
 #### Python Snippets
 + [Comprehensive Python Cheatsheet](https://github.com/kamyu104/python-cheatsheet/blob/master/README.md)
@@ -99,12 +108,14 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [81 Python Code Snippets for Everyday Problems](https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/)
 + []()
 + []()
+#### 2020
++ [20 Tips For Learning to Code in 2020](https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i)
 + []()
 + []()
-+ []()
-+ []()
-+ []()
-+ []()
+#### Recommendation
++ [yehuda_koren_recommender](https://github.com/Abhinavfreecodecamp/yehuda_koren_recommender/blob/master/Netflix_Movie.ipynb)
++ [kamyu104 /recommenders](https://github.com/kamyu104/recommenders/blob/master/README.md)
++ [edgelord /Paper-Recommender](https://github.com/edgelord/Paper-Recommender/tree/master/src)
 + []()
 + []()
 + []()
