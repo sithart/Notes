@@ -3,6 +3,27 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 
 ## List of MOOCs
 
+
+### Bootstrap Snippets
++ [Beautiful and responsive Bootstrap 4 components](https://epicbootstrap.com/snippets)
++ [Bootstrap 4.1.1 Examples ](https://bootsnipp.com/tags/4.1.1?page=4)
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
+
 ### Crawling
 
 + [Top 20 Web Crawling Tools to Scrape the Websites Quickly](https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data)  
@@ -213,11 +234,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + []()
 + []()
 
-#### Website for coloring
+#### Website for coloring and design
 + [https://lampa.io/](https://lampa.io/)
 + [https://automate.io/](https://automate.io/)
-+ []()
-+ []()
++ [https://www.zoominfo.com/](https://www.zoominfo.com/)
++ [https://www.dnb.com/](https://www.dnb.com/)
 + []()
 + []()
 + []()
