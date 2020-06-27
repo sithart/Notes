@@ -10,9 +10,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + []()
 + []()
 + []()
-+ []()
-+ []()
-+ []()
+### User Interface Website samples
++ [cssdesignawards](https://www.cssdesignawards.com/)
++ [https://www.awwwards.com/websites/icons/](https://www.awwwards.com/websites/icons/)
++ [https://www.csswinner.com/](https://www.csswinner.com/)
 + []()
 + []()
 + []()
