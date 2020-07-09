@@ -7,23 +7,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Bootstrap Snippets
 + [Beautiful and responsive Bootstrap 4 components](https://epicbootstrap.com/snippets)
 + [Bootstrap 4.1.1 Examples ](https://bootsnipp.com/tags/4.1.1?page=4)
-+ []()
-+ []()
-+ []()
-### User Interface Website samples
+
+### Template Modals
 + [cssdesignawards](https://www.cssdesignawards.com/)
 + [https://www.awwwards.com/websites/icons/](https://www.awwwards.com/websites/icons/)
 + [https://www.csswinner.com/](https://www.csswinner.com/)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
 
 ### Crawling
 
@@ -80,13 +68,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
 + [20 Best Machine Learning Resources for Data Scientists](https://hackernoon.com/20-best-machine-learning-resources-for-data-scientists-eo313289?source=rss)
 + [The missing link between spreadsheets and data visualization.](https://rawgraphs.io/)
-+ []()
++ [Bits Pieces](https://blog.bitsrc.io/)
 
 #### Bootstrap
 + [Blackrock Digital](https://github.com/BlackrockDigital?tab=repositories)
-+ []()
-+ []()
-+ []()
 
 #### Following
 + [Joshua Levy](https://github.com/jlevy?tab=repositories)
@@ -97,28 +82,24 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [iriskatastic](https://dev.to/iriskatastic)
 + [icymi](https://dev.to/t/icymi)
 + [kamyu](https://github.com/kamyu104)
-+ []()
-+ []()
 
 #### Recommendation
 + [best practices for building recommendation systems, provided as Jupyter notebooks](https://github.com/kamyu104/recommenders/blob/master/README.md)
 + [A recommendation system for research articles](https://github.com/edgelord/Paper-Recommender)
-+ []()
-+ []()
+
 #### Colabs
 + [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
-+ []()
-+ []()
+
 #### Rust
 + [A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)
-+ []()
-+ []()
+
 #### Swift
 + [The simplest abstraction to synchronize local data with remote source. For iOS, wirtten in swift.](https://github.com/ladeiko/OneWaySynchronizer)
 + [Implementing Local database sync with remote database](https://forums.swift.org/t/implementing-local-database-sync-with-remote-database/20595)
+
 #### OpenStack swift
 + [python-swiftclient](https://github.com/FredHutch/python-swiftclient/tree/57ecf5034b1f58566fe06b6ddfde3d932dbf207b/swiftclient)
-+ []()
+
 #### Python Snippets
 + [Comprehensive Python Cheatsheet](https://github.com/kamyu104/python-cheatsheet/blob/master/README.md)
 + [Pysheeet](https://github.com/kamyu104/pysheeet/blob/master/README.rst)
@@ -128,12 +109,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Python Summer of Code](https://python-gsoc.org/)
 + [Full Python Code Snippets list](https://stevepython.wordpress.com/full-python-code-snippets-list/)
 + [81 Python Code Snippets for Everyday Problems](https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/)
-+ []()
-+ []()
+
 #### 2020
 + [20 Tips For Learning to Code in 2020](https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i)
-+ []()
-+ []()
+
 #### Recommendation
 + [yehuda_koren_recommender](https://github.com/Abhinavfreecodecamp/yehuda_koren_recommender/blob/master/Netflix_Movie.ipynb)
 + [kamyu104 /recommenders](https://github.com/kamyu104/recommenders/blob/master/README.md)
@@ -224,11 +203,14 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + []()
 + []()
 + []()
+#### UI & UX design
++ [https://www.canva.com/](https://www.canva.com/)
+#### IDE
++ [https://jsconsole.com/](https://jsconsole.com/)
 + []()
 + []()
-+ []()
-+ []()
-+ []()
+#### Python Tricks
++ [7 Cool Python Tricks That You (Probably) Didn’t Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)
 + []()
 + []()
 + []()
@@ -240,7 +222,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [https://automate.io/](https://automate.io/)
 + [https://www.zoominfo.com/](https://www.zoominfo.com/)
 + [https://www.dnb.com/](https://www.dnb.com/)
-+ []()
+#### React JS
++ [React Resources](https://reactresources.com/)
 + []()
 + []()
 + []()
