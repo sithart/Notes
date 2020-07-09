@@ -20,8 +20,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)  
 + [COVID-19 Websites](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/websites.html)
 
-#### [Machine Learning](https://www.coursera.org/learn/machine-learning/) by Dr. Andrew Ng at Stanford University and Baidu
-
+#### Collections
++ [Machine Learning](https://www.coursera.org/learn/machine-learning/)
 + [Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/)
 + [PyScopus Python Wrapper for Scopus API](https://zhiyzuo.github.io/python-scopus/doc/quick-start.html)
 + [How to Automate Dumping for SQL Databases](https://dev.to/obbap/how-to-automate-dumping-for-sql-databases-im4)
