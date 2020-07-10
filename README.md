@@ -14,7 +14,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [https://www.csswinner.com/](https://www.csswinner.com/)
 
 ### Crawling
-
++ [Scheduled Web Scraping with Django and Heroku](https://towardsdatascience.com/scheduled-web-scraping-with-django-and-heroku-e832e1363c7a)
 + [Top 20 Web Crawling Tools to Scrape the Websites Quickly](https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data)  
 + [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)  
 + [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)  
@@ -69,6 +69,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [20 Best Machine Learning Resources for Data Scientists](https://hackernoon.com/20-best-machine-learning-resources-for-data-scientists-eo313289?source=rss)
 + [The missing link between spreadsheets and data visualization.](https://rawgraphs.io/)
 + [Bits Pieces](https://blog.bitsrc.io/)
++ [ParlAI Documentation](https://parl.ai/docs/index.html)
++ [Welcome newbie Open Source contributors!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README.md)
++ [The 100 Most Popular Online Courses of All Time (2020)](https://www.classcentral.com/report/most-popular-online-courses/)
++ [Intuitions behind the world](https://hsaghir.github.io/)
+
 
 ### Bootstrap
 + [Blackrock Digital](https://github.com/BlackrockDigital?tab=repositories)
@@ -101,6 +106,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [python-swiftclient](https://github.com/FredHutch/python-swiftclient/tree/57ecf5034b1f58566fe06b6ddfde3d932dbf207b/swiftclient)
 
 ### Python Snippets
++ [Python-programming-exercises ](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
 + [Comprehensive Python Cheatsheet](https://github.com/kamyu104/python-cheatsheet/blob/master/README.md)
 + [Pysheeet](https://github.com/kamyu104/pysheeet/blob/master/README.rst)
 + [learn-python3](https://github.com/michaelliao/learn-python3?files=1)
@@ -125,8 +131,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Top 50 Django Interview Questions and Answers You Need to Know](https://www.edureka.co/blog/interview-questions/django-interview-questions/)
 + [How to integrate OAuth2 into your Django/DRF backend without going insane](https://github.com/coriolinus/oauth2-article)
 + [Simple example of using Django to work with multiple databases.](https://github.com/mmalone/django-multidb)
-+ []()
-+ []()
+
+### Quantum Computing
++ [Welcome to Quantum ](https://qiskit.org/)
+### NLP
++ [The Super Duper NLP Repo ](https://notebooks.quantumstat.com/)
 + []()
 + []()
 ### Awesome websites
@@ -205,22 +214,32 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + []()
 ### UI & UX design
 + [https://www.canva.com/](https://www.canva.com/)
++ [Blush, Illustrations for Everyone](https://blush.design/)
++ [Landing page templates for startups](https://cruip.com/)
+
 ### IDE
 + [https://jsconsole.com/](https://jsconsole.com/)
-+ []()
-+ []()
+
 ### Python Tricks
 + [7 Cool Python Tricks That You (Probably) Didn’t Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)
+### No code
++ [Where next for no-code?](https://medium.com/@chargevc/where-next-for-no-code-8f9d21354cc9)
++ [lobe](https://www.lobe.ai/)
 + []()
-+ []()
-+ []()
-+ []()
-+ []()
+### Stat
++ [1 Million developers club](https://818f5d1f-449c-4719-9351-2d9cbf09cf88.filesusr.com/ugd/998325_3b160c97eaab49d0afef3e356e5c93f5.pdf)
++ [DISCOVER KEY TRENDS IN THE DEVELOPER ECOSYSTEM](https://www.slashdata.co/free-resources?)
++ [The State of Cloud Native development](https://slashdata-website-cms.s3.amazonaws.com/sample_reports/cyKHmO5RZXYvIiyk.pdf)
++ [State of the Developer nation 18 th edition](https://slashdata-website-cms.s3.amazonaws.com/sample_reports/JXUvDIgMhTR_j31p.pdf)
 
-### Website for coloring and design
-+ [https://lampa.io/](https://lampa.io/)
+### Website
++ [200+ Best Free Tools & Resources for Front-End Web Developers](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643)
++ [A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons.](https://templated.co/)
++ [11 Best Websites for Free Web Development Code Snippets in 2020](https://www.delt.net/mag/best-websites-for-free-code/)
 + [https://automate.io/](https://automate.io/)
 + [https://www.zoominfo.com/](https://www.zoominfo.com/)
-+ [https://www.dnb.com/](https://www.dnb.com/)
++ [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
++ [Using GitHub to host a free static website](https://www.geeksforgeeks.org/using-github-to-host-a-free-static-website/)
++ []()
 ### React JS
 + [React Resources](https://reactresources.com/)
