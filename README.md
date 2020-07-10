@@ -199,7 +199,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [server.js for Node](https://serverjs.io/)
 + [nodeschool](https://nodeschool.io/#workshoppers)
 + [Make sense of your messy world.](https://kumu.io/)
-+ [Just type saved.io/ in front of any URL to save a bookmark to the cloud](Just type saved.io/ in front of any URL to save a bookmark to the cloud)
++ [Just type saved.io/ in front of any URL to save a bookmark to the cloud](https://saved.io/)
 + [Translate your website](https://gtranslate.io/)
 + [Tap into news data |at scale](https://webhose.io/)
 + [Visualize the Internet of Things.](https://freeboard.io/)
