@@ -1,7 +1,11 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
-## List of MOOCs
+### Hardwares
++ [We do Research & Development in embedded systems,
+Robotics, Electronics & Application software’s,
+to make human life easier and luxurious](https://www.rhydo.com/)
+- [Embedding Intelligence](https://www.rhydo.com/)
 
 
 ### Bootstrap Snippets
