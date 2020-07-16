@@ -143,6 +143,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + []()
 + []()
 ### Awesome websites
++ [Awesome](https://github.com/sindresorhus/awesome)
 + [Hackersandslackers](https://hackersandslackers.com/)
 + [Awesome Hacking Resources](https://github.com/ab-anand/Awesome-Hacking-Resources)
 + [Every Programmer Should Know](https://github.com/ab-anand/every-programmer-should-know/blob/master/README.md)
@@ -153,9 +154,9 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [free-for.dev](https://github.com/ripienaar/free-for-dev#code-search-and-browsing)
 + [Daily Coding Problem](https://www.dailycodingproblem.com/)
 + [Learn to ship software like a pro.](https://education.github.com/pack)
-+ []()
-+ []()
-+ []()
++ [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
++ [You dont need](https://github.com/you-dont-need/You-Dont-Need)
++ [Awesome Github Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 + []()
 ### Covid-19
 + [LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
@@ -247,3 +248,6 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + []()
 ### React JS
 + [React Resources](https://reactresources.com/)
+
+### ChatBot
++ [Whatsapp bots to grow your business](https://blog.yudiz.com/whatsapp-bots-to-grow-your-business/)
