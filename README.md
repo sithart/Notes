@@ -8,7 +8,11 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 - [Embedding Intelligence](https://www.rhydo.com/)
 
 
-### Bootstrap Snippets
+### Website Snippets
++ [HTML DOM - Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev/)
++ [a collection of popular layouts and patterns made with CSS](https://csslayout.io/)
++ [206 Favorite JavaScript Utilities](https://1loc.dev/)
++ []()
 + [Beautiful and responsive Bootstrap 4 components](https://epicbootstrap.com/snippets)
 + [Bootstrap 4.1.1 Examples ](https://bootsnipp.com/tags/4.1.1?page=4)
 
@@ -68,7 +72,6 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [parall](https://parall.ax/blog/category/tutorials)
 + [33 projects that make developing django apps awesome](https://gcollazo.com/33-projects-that-make-developing-django-apps-awesome/)
 + [33 Concepts Every JavaScript Developer Should Know ](https://github.com/pg1992/33-js-concepts)
-+ [HTML DOM - Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev/)
 + [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
 + [20 Best Machine Learning Resources for Data Scientists](https://hackernoon.com/20-best-machine-learning-resources-for-data-scientists-eo313289?source=rss)
 + [The missing link between spreadsheets and data visualization.](https://rawgraphs.io/)
@@ -77,6 +80,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [Welcome newbie Open Source contributors!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README.md)
 + [The 100 Most Popular Online Courses of All Time (2020)](https://www.classcentral.com/report/most-popular-online-courses/)
 + [Intuitions behind the world](https://hsaghir.github.io/)
++ [awesome-list ](https://github.com/topics/awesome-list)
 
 
 ### Bootstrap
@@ -127,8 +131,8 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [yehuda_koren_recommender](https://github.com/Abhinavfreecodecamp/yehuda_koren_recommender/blob/master/Netflix_Movie.ipynb)
 + [kamyu104 /recommenders](https://github.com/kamyu104/recommenders/blob/master/README.md)
 + [edgelord /Paper-Recommender](https://github.com/edgelord/Paper-Recommender/tree/master/src)
-+ []()
-+ []()
++ [Cornac: A Comparative Framework for MultimodalRecommender Systems](http://jmlr.org/papers/volume21/19-805/19-805.pdf)
++ [Journal of Machine Learning Research](http://jmlr.org/)
 ### Django
 + [Awesome Django](https://github.com/zhiwehu/awesome-django#email)
 + [django-python3-ldap](https://github.com/etianen/django-python3-ldap/blob/master/README.rst)
@@ -143,6 +147,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + []()
 + []()
 ### Awesome websites
++ [ vinta /awesome-python ](https://github.com/vinta/awesome-python)
 + [Awesome](https://github.com/sindresorhus/awesome)
 + [Hackersandslackers](https://hackersandslackers.com/)
 + [Awesome Hacking Resources](https://github.com/ab-anand/Awesome-Hacking-Resources)
@@ -157,7 +162,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 + [You dont need](https://github.com/you-dont-need/You-Dont-Need)
 + [Awesome Github Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-+ []()
++ [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 ### Covid-19
 + [LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 + [Computer Scientists Are Building Algorithms to Tackle COVID-19](https://onezero.medium.com/amp/p/f4ec40acdba0)
