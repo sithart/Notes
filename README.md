@@ -114,6 +114,9 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [python-swiftclient](https://github.com/FredHutch/python-swiftclient/tree/57ecf5034b1f58566fe06b6ddfde3d932dbf207b/swiftclient)
 
 ### Python Snippets
++ [ZetCode](http://zetcode.com/all/#python)
++ [ActiveState](https://code.activestate.com/)
++ [Nullege is a search engine for Python source code.](http://nullege.com/)
 + [Python-programming-exercises ](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
 + [Comprehensive Python Cheatsheet](https://github.com/kamyu104/python-cheatsheet/blob/master/README.md)
 + [Pysheeet](https://github.com/kamyu104/pysheeet/blob/master/README.rst)
