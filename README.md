@@ -7,6 +7,13 @@ Robotics, Electronics & Application software’s,
 to make human life easier and luxurious](https://www.rhydo.com/)
 - [Embedding Intelligence](https://www.rhydo.com/)
 
+### Guido Van Rossum
+- [Python main() functions](https://www.artima.com/weblogs/viewpost.jsp?thread=4829)
+
+### IBM
+- [IBM®IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/en)
+- [IBM RPA overview](https://www.ibm.com/support/knowledgecenter/en/SSMGNY_11.0.0/com.ibm.wbpm.rpa.main.doc/topics/overview_rpa.html)
+- [Automation Anyware](https://docs.automationanywhere.com/bundle/enterprise-v11.3/page/enterprise/topics/release-notes/release-notes-11-3-4-1.html)
 
 ### Website Snippets
 + [HTML DOM - Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev/)
