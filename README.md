@@ -1,6 +1,10 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
++[Programming Guides Easy to follow guides on complex topics written and maintained by the community](https://roadmap.sh/guides)
++[Developer Roadmaps Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
+
+
 ### Hardwares
 + [We do Research & Development in embedded systems,
 Robotics, Electronics & Application software’s,
@@ -241,6 +245,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [https://jsconsole.com/](https://jsconsole.com/)
 
 ### Python Tricks
++ [Novixys Software Dev Blog](https://www.novixys.com/blog/tag/python/)
 + [7 Cool Python Tricks That You (Probably) Didn’t Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)
 ### No code
 + [Where next for no-code?](https://medium.com/@chargevc/where-next-for-no-code-8f9d21354cc9)
