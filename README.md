@@ -27,6 +27,9 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [Beautiful and responsive Bootstrap 4 components](https://epicbootstrap.com/snippets)
 + [Bootstrap 4.1.1 Examples ](https://bootsnipp.com/tags/4.1.1?page=4)
 
+### UI Snippets
++ [consistent icons](https://systemuicons.com/)
+
 ### Template Modals
 + [cssdesignawards](https://www.cssdesignawards.com/)
 + [https://www.awwwards.com/websites/icons/](https://www.awwwards.com/websites/icons/)
