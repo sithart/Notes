@@ -1,69 +1,79 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
-+[Programming Guides Easy to follow guides on complex topics written and maintained by the community](https://roadmap.sh/guides)
-+[Developer Roadmaps Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
+### Developer Road Maps
+
++ [Programming Guides Easy to follow guides on complex topics written and maintained by the community](https://roadmap.sh/guides)
++ [Developer Roadmaps Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 
 
 ### Hardwares
 + [We do Research & Development in embedded systems,
 Robotics, Electronics & Application software’s,
 to make human life easier and luxurious](https://www.rhydo.com/)
-- [Embedding Intelligence](https://www.rhydo.com/)
 
 ### Guido Van Rossum
 - [Python main() functions](https://www.artima.com/weblogs/viewpost.jsp?thread=4829)
 
-### IBM
+### Docs & Next Gen
 - [IBM®IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter/en)
-- [IBM RPA overview](https://www.ibm.com/support/knowledgecenter/en/SSMGNY_11.0.0/com.ibm.wbpm.rpa.main.doc/topics/overview_rpa.html)
 - [Automation Anyware](https://docs.automationanywhere.com/bundle/enterprise-v11.3/page/enterprise/topics/release-notes/release-notes-11-3-4-1.html)
+- [Welcome to Docs CSC!](https://docs.csc.fi/)
++ [ParlAI Documentation](https://parl.ai/docs/index.html)
 
-### Website Snippets
+### Web Development Snippets
 + [HTML DOM - Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev/)
 + [a collection of popular layouts and patterns made with CSS](https://csslayout.io/)
 + [206 Favorite JavaScript Utilities](https://1loc.dev/)
-+ []()
 + [Beautiful and responsive Bootstrap 4 components](https://epicbootstrap.com/snippets)
 + [Bootstrap 4.1.1 Examples ](https://bootsnipp.com/tags/4.1.1?page=4)
-
-### UI Snippets
++ [Theme Forest](https://themeforest.net/)
++ [Theme Lock](https://www.themelock.com/othertemplates/html/)
 + [consistent icons](https://systemuicons.com/)
-
-### Template Modals
 + [cssdesignawards](https://www.cssdesignawards.com/)
 + [https://www.awwwards.com/websites/icons/](https://www.awwwards.com/websites/icons/)
 + [https://www.csswinner.com/](https://www.csswinner.com/)
++ [Add Dynamic Styling to HTML Elements With JavaScript](https://dev.to/aumayeung/add-dynamic-styling-to-html-elements-with-javascript-10mj)
++ [tympanus](https://tympanus.net/codrops/all-articles/page/3/)
++ [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
 
 ### Crawling
 + [Scheduled Web Scraping with Django and Heroku](https://towardsdatascience.com/scheduled-web-scraping-with-django-and-heroku-e832e1363c7a)
 + [Top 20 Web Crawling Tools to Scrape the Websites Quickly](https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data)  
 + [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)  
-+ [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)  
 + [COVID-19 Websites](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/websites.html)
 
-### Collections
-+ [Machine Learning](https://www.coursera.org/learn/machine-learning/)
+### Data Archive
 + [Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/)
++ [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+
+
+### Documentation Collections
 + [PyScopus Python Wrapper for Scopus API](https://zhiyzuo.github.io/python-scopus/doc/quick-start.html)
++ [Department of Computing](http://pwp.stevecassidy.net/)
+
+### Data Analysis & visualization
++ [SCOPUS journal Data analysis of Indian Research](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher/blob/master/SCOPUS_data_analysis_Python3x_v1.ipynb)
++ [The “tiny” field guide to dating - A Data Science Tutorial](https://medium.com/analytics-vidhya/the-tiny-field-guide-to-dating-a-data-science-tutorial-86a3cede4cf5)
++ [10 Powerful and Time-Saving Data Exploration Hacks, Tips and Tricks!](https://www.analyticsvidhya.com/blog/2020/04/10-time-saving-data-exploration-hacks-tips-tricks/)
+
+### Article Collections
+
+
 + [How to Automate Dumping for SQL Databases](https://dev.to/obbap/how-to-automate-dumping-for-sql-databases-im4)
 + [Rico's cheatsheets ](https://devhints.io/)
 + [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 + [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
 + [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 + [Level-Up using Gists with Python](https://medium.com/@zecca/level-up-using-gists-with-python-b393a97b6b89)
-+ [Department of Computing](http://pwp.stevecassidy.net/)
 + [30 Questions to test a data scientist on K-Nearest Neighbors (kNN) Algorithm](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 + [Corona Virus Live Updates for India – Using Python](https://www.geeksforgeeks.org/corona-virus-live-updates-for-india-using-python/)
 + [Scaling a Pandas ETL Job to 600GB](https://www.enigma.com/blog/post/scaling-a-pandas-etl-job-to-600gb)
 + [Dirty PostgreSQL Database? Clean It up With a VACUUM!](https://www.vertabelo.com/blog/dirty-postgresql-database-clean-it-up-with-a-vacuum/)
 + [8 Tips For Google Colab Notebooks To Take Advantage Of Their Free-of-charge 12GB-RAM GPU](https://dev.to/kriyeng/8-tips-for-google-colab-notebooks-to-take-advantage-of-their-free-of-charge-12gb-ram-gpu-be4)
 + [Dataset creation and cleaning: Web Scraping using Python — Part 1](https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b)
-+ [SCOPUS journal Data analysis of Indian Research](https://github.com/NeelShah18/scopus-analysis-for-indian-researcher/blob/master/SCOPUS_data_analysis_Python3x_v1.ipynb)
 + [Twitter Scraping, Text Mining and Sentiment Analysis using Python](https://hackernoon.com/twitter-scraping-text-mining-and-sentiment-analysis-using-python-b95e792a4d64)
-+ [Add Dynamic Styling to HTML Elements With JavaScript](https://dev.to/aumayeung/add-dynamic-styling-to-html-elements-with-javascript-10mj)
-+ [The “tiny” field guide to dating - A Data Science Tutorial](https://medium.com/analytics-vidhya/the-tiny-field-guide-to-dating-a-data-science-tutorial-86a3cede4cf5)
-+ [10 Powerful and Time-Saving Data Exploration Hacks, Tips and Tricks!](https://www.analyticsvidhya.com/blog/2020/04/10-time-saving-data-exploration-hacks-tips-tricks/)
+
 + [一些非常有趣的python爬虫例子,对新手比较友好](https://github.com/shengqiangzhang/examples-of-web-crawlers?files=1)
 + [joshwcomeau.com](https://joshwcomeau.com/)
 + [Introducing JSON](https://www.json.org/json-en.html)
@@ -73,7 +83,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [Getting Started with PostgreSQL Streaming Replication](https://scalegrid.io/blog/getting-started-with-postgresql-streaming-replication/)
 + [micropyramid](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
 + [pro level website](https://www.ultranoir.com/)
-+ [tympanus](https://tympanus.net/codrops/all-articles/page/3/)
+
 + [scotch](https://scotch.io/tutorials/understanding-memoization-in-javascript)
 + [dzone](https://dzone.com/)
 + [dillan teagle](https://dev.to/teaglebuilt)
@@ -85,12 +95,11 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [How to create a custom context menu for your web application ](https://dev.to/iamafro/how-to-create-a-custom-context-menu--5d7p)
 + [parall](https://parall.ax/blog/category/tutorials)
 + [33 projects that make developing django apps awesome](https://gcollazo.com/33-projects-that-make-developing-django-apps-awesome/)
-+ [33 Concepts Every JavaScript Developer Should Know ](https://github.com/pg1992/33-js-concepts)
-+ [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
++ [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts)
+
 + [20 Best Machine Learning Resources for Data Scientists](https://hackernoon.com/20-best-machine-learning-resources-for-data-scientists-eo313289?source=rss)
 + [The missing link between spreadsheets and data visualization.](https://rawgraphs.io/)
 + [Bits Pieces](https://blog.bitsrc.io/)
-+ [ParlAI Documentation](https://parl.ai/docs/index.html)
 + [Welcome newbie Open Source contributors!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README.md)
 + [The 100 Most Popular Online Courses of All Time (2020)](https://www.classcentral.com/report/most-popular-online-courses/)
 + [Intuitions behind the world](https://hsaghir.github.io/)
