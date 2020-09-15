@@ -1,6 +1,9 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
+### Rare docs
++ [Ceph Documentation](https://ceph.readthedocs.io/en/latest/radosgw/s3/python/)
+
 ### Developer Road Maps
 
 + [Programming Guides Easy to follow guides on complex topics written and maintained by the community](https://roadmap.sh/guides)
