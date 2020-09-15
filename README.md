@@ -3,6 +3,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 
 ### Rare docs
 + [Ceph Documentation](https://ceph.readthedocs.io/en/latest/radosgw/s3/python/)
++ [Popular Blocks](https://bl.ocks.org/)
 
 ### Developer Road Maps
 
