@@ -4,6 +4,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Rare docs
 + [Ceph Documentation](https://ceph.readthedocs.io/en/latest/radosgw/s3/python/)
 + [Popular Blocks](https://bl.ocks.org/)
++ [Tutorials](https://rtcamp.com/tutorials/)
+
+
+### Rare Links
++[One Library All of India](https://ndl.iitkgp.ac.in/)
 
 ### Developer Road Maps
 
