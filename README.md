@@ -158,6 +158,7 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [Python Summer of Code](https://python-gsoc.org/)
 + [Full Python Code Snippets list](https://stevepython.wordpress.com/full-python-code-snippets-list/)
 + [81 Python Code Snippets for Everyday Problems](https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/)
++ [Scraping AJAX Pages with Python](http://toddhayton.com/2015/03/11/scraping-ajax-pages-with-python/)
 
 ### 2020
 + [20 Tips For Learning to Code in 2020](https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i)
