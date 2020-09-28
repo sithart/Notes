@@ -7,8 +7,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Tutorials](https://rtcamp.com/tutorials/)
 
 
+
 ### Rare Links
 +[One Library All of India](https://ndl.iitkgp.ac.in/)
++[stemez](https://www.stemez.com/)
 
 ### Developer Road Maps
 
