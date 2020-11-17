@@ -295,3 +295,8 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 
 ### ChatBot
 + [Whatsapp bots to grow your business](https://blog.yudiz.com/whatsapp-bots-to-grow-your-business/)
+
+### Silican valley and Tech News
+
++ [Lobsters](https://lobste.rs/)
++ [Hacker News](https://news.ycombinator.com/)
