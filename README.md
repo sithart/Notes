@@ -147,6 +147,19 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 ### OpenStack swift
 + [python-swiftclient](https://github.com/FredHutch/python-swiftclient/tree/57ecf5034b1f58566fe06b6ddfde3d932dbf207b/swiftclient)
 
+### Python Blogs
++ [gormanalysis](https://www.gormanalysis.com/blog/)
++ [Working with Buckets and Files via S3](https://www.stratoscale.com/knowledge/storage-2/object-storage/boto-3-for-s3/working-with-buckets-and-files-via-s3/)
++ [Simple Authentication with AWS Cognito Overview of Cognito ](https://www.stackery.io/blog/authentication-aws-cognito/)
++ [Different ways to configure credentials with boto3](https://analyticshut.com/configure-credentials-with-boto3/)
++ [Helpful Tutorials](https://rtcamp.com/tutorials/)
++ [Generate Temporary AWS Credentials](https://binx.io/blog/2018/01/09/generate-temporary-aws-credentials/)
++ [Share Files Securely Over Internet Using AWS Cognito and S3](https://www.powerupcloud.com/share-files-securely-over-internet-using-aws-cognito-and-s3/)
+
+### Career
++ [Big Data Science MSc](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/big-data-science-msc/)
++ []()
+
 ### Python Snippets
 + [ZetCode](http://zetcode.com/all/#python)
 + [ActiveState](https://code.activestate.com/)
@@ -282,6 +295,13 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [State of the Developer nation 18 th edition](https://slashdata-website-cms.s3.amazonaws.com/sample_reports/JXUvDIgMhTR_j31p.pdf)
 
 ### Website
++ [Free Bootstrap Templates](https://bootstrapmade.com/)
++ [Welcome to BBBootstrap, House of cool snippets](https://bbbootstrap.com/)
++ [Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework](https://bootsnipp.com/)
++ [Free HTML5 CSS Templates](https://templatemo.com/)
++ [Daily Dev Tips](https://daily-dev-tips.com/)
++ []()
++ []()
 + [200+ Best Free Tools & Resources for Front-End Web Developers](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643)
 + [A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons.](https://templated.co/)
 + [11 Best Websites for Free Web Development Code Snippets in 2020](https://www.delt.net/mag/best-websites-for-free-code/)
@@ -289,7 +309,9 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 + [https://www.zoominfo.com/](https://www.zoominfo.com/)
 + [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 + [Using GitHub to host a free static website](https://www.geeksforgeeks.org/using-github-to-host-a-free-static-website/)
-+ []()
++ [10 Amazing Sites to Download Free Stock Photos](https://lineicons.com/blog/)
++ [Best Websites to Explore and Download Free Design Resources](https://lineicons.com/blog/design-resources/)
+
 ### React JS
 + [React Resources](https://reactresources.com/)
 
