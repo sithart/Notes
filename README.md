@@ -9,8 +9,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 
 
 ### Rare Links
-+[One Library All of India](https://ndl.iitkgp.ac.in/)
-+[stemez](https://www.stemez.com/)
++ [One Library All of India](https://ndl.iitkgp.ac.in/)
++ [stemez](https://www.stemez.com/)
 
 ### Developer Road Maps
 
