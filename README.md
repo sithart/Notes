@@ -322,3 +322,21 @@ to make human life easier and luxurious](https://www.rhydo.com/)
 
 + [Lobsters](https://lobste.rs/)
 + [Hacker News](https://news.ycombinator.com/)
+
+###pdf
++ [Holistic Crowd-Powered Sorting via AID](https://par.nsf.gov/servlets/purl/10093545)
+
+### Collections
++ [JSON Formatter](https://jsonformatter.curiousconcept.com/#about)
++ [The Self-Organizing Conference on Machine Learning](https://www.socml.org/)
++ [Reward learning from human preferences anddemonstrations in Atari](https://arxiv.org/pdf/1811.06521.pdf)
++ [AlphaFold: a solution to a 50-year-old grand challenge in biology ](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
++ [Artificial Reproductive Code](https://medium.com/socyc/arc-or-artificial-reproductive-code-f85ba79141c6)
++ [Medium Top](https://toppub.xyz/publications)
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
