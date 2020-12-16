@@ -266,3 +266,9 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [ We build AI-first startups. Join us, and let’s build a company around you.](https://www.ai2incubator.com/#community)
 + [Cybersecurity careers: Which one is right for you?](https://www.welivesecurity.com/2020/11/13/cybersecurity-careers-which-one-right-you/)
 + [Carnegie Mellon](https://engineering.cmu.edu/index.html)
+
+### React
++ [Best free resources to learn React in 2020](https://dev.to/areknawo/best-free-resources-to-learn-react-in-2020-591b)
+
+
+
