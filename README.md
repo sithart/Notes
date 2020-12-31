@@ -35,6 +35,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Add Dynamic Styling to HTML Elements With JavaScript](https://dev.to/aumayeung/add-dynamic-styling-to-html-elements-with-javascript-10mj)
 + [tympanus](https://tympanus.net/codrops/all-articles/page/3/)
 + [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
++ [A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons.](https://templated.co/)
 ### Crawling
 + [Scheduled Web Scraping with Django and Heroku](https://towardsdatascience.com/scheduled-web-scraping-with-django-and-heroku-e832e1363c7a)
 + [Top 20 Web Crawling Tools to Scrape the Websites Quickly](https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data)  
@@ -106,7 +107,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Recommendation
 + [best practices for building recommendation systems, provided as Jupyter notebooks](https://github.com/kamyu104/recommenders/blob/master/README.md)
 + [A recommendation system for research articles](https://github.com/edgelord/Paper-Recommender)
-### Colabs
+### NLP with demo source code
 + [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 ### Rust
 + [A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)
@@ -126,6 +127,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Career
 + [Big Data Science MSc](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/big-data-science-msc/)
 ### Python Snippets
++ [Welcome to Python Cheatsheet!](https://www.pythoncheatsheet.org/)
 + [ZetCode](http://zetcode.com/all/#python)
 + [ActiveState](https://code.activestate.com/)
 + [Nullege is a search engine for Python source code.](http://nullege.com/)
@@ -266,3 +268,16 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [ We build AI-first startups. Join us, and let’s build a company around you.](https://www.ai2incubator.com/#community)
 + [Cybersecurity careers: Which one is right for you?](https://www.welivesecurity.com/2020/11/13/cybersecurity-careers-which-one-right-you/)
 + [Carnegie Mellon](https://engineering.cmu.edu/index.html)
++ [Posts tagged "python"](https://www.saltycrane.com/blog/tag/python/)
+### Best Github  for learning
++ [Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
++ [Coding Problems](https://github.com/MTrajK/coding-problems)
++ [Python-programming-exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
++ [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)
++ [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+### Articles
++ [The top list of academic research databases](https://paperpile.com/g/academic-research-databases/)
+### Interesting Ideas
++ [No-fuss reference management for the web](https://paperpile.com/)
++ [Find Impact Factor](https://www.resurchify.com/impact-factor.php)
+
