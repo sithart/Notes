@@ -280,4 +280,3 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Interesting Ideas
 + [No-fuss reference management for the web](https://paperpile.com/)
 + [Find Impact Factor](https://www.resurchify.com/impact-factor.php)
-
