@@ -1,6 +1,13 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
-
+### Learning Sites
++ [India's Learning Won't Stop](https://www.vedantu.com/)
++ [The Best Concept Based Learning Platform](https://dontmemorise.com/)
++ [Digital learning, simplified.](https://clever.com/)
++ []()
++ []()
++ []()
++ []()
 ### Rare docs
 + [Ceph Documentation](https://ceph.readthedocs.io/en/latest/radosgw/s3/python/)
 + [Popular Blocks](https://bl.ocks.org/)
@@ -20,6 +27,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 - [Automation Anyware](https://docs.automationanywhere.com/bundle/enterprise-v11.3/page/enterprise/topics/release-notes/release-notes-11-3-4-1.html)
 - [Welcome to Docs CSC!](https://docs.csc.fi/)
 + [ParlAI Documentation](https://parl.ai/docs/index.html)
++ [David Ten](https://xang1234.github.io/textrank/)
 ### Web Development Snippets
 + [HTML DOM - Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev/)
 + [a collection of popular layouts and patterns made with CSS](https://csslayout.io/)
@@ -254,12 +262,15 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Tutorials](https://bootstrapious.com/tutorials/)
 + [Resources](https://bootstrapious.com/resources)
 + [Free themes for Bootstrap](https://bootswatch.com/)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
++ [https://bootstraptor.com/snippets/](https://bootstraptor.com/snippets/)
++ [500 HTML5 ready-blocks ](https://demo.bootstraptor.com/blueprints-app/demo.html#)
++ [ Free Bootstrap Templates & Layouts ](https://dartthemes.com/builder/)
++ [Discover each crafted responsive design templates , ready to be use and to be customize to make your website amazing.](http://www.mashup-template.com/templates.html)
++ [Bootstrap 4 Snippets Free ready to use UI design elements / templates, code snippets and playground for the Bootstrap framework.
+](https://www.tutorialrepublic.com/snippets/gallery.php?tag=navbar)
+
+### SmartWorks
++ [One Word Domains](https://www.oneword.domains/)
 + []()
 + []()
 + []()
