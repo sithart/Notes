@@ -15,9 +15,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Rare Links
 + [One Library All of India](https://ndl.iitkgp.ac.in/)
 + [stemez](https://www.stemez.com/)
-### Developer Road Maps
+### Blogs for smart Developer
 + [Programming Guides Easy to follow guides on complex topics written and maintained by the community](https://roadmap.sh/guides)
 + [Developer Roadmaps Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
++ [I'm Tania Rascia](https://www.taniarascia.com/)
 ### Hardwares
 + [We do R&D](https://www.rhydo.com/)
 ### Guido Van Rossum
@@ -271,11 +272,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 
 ### SmartWorks
 + [One Word Domains](https://www.oneword.domains/)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
+### Python blogs
++ [askpython](https://www.askpython.com/)
++ [All About Linux.](https://www.linuxfordevices.com/)
++ [All About GoLang.](https://golangdocs.com/)
++ [journaldev](https://www.journaldev.com/)
