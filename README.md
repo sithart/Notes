@@ -1,13 +1,11 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
+
 ### Learning Sites
 + [India's Learning Won't Stop](https://www.vedantu.com/)
 + [The Best Concept Based Learning Platform](https://dontmemorise.com/)
 + [Digital learning, simplified.](https://clever.com/)
-+ []()
-+ []()
-+ []()
-+ []()
++ [Eloquent JavaScript](https://eloquentjavascript.net/)
 ### Rare docs
 + [Ceph Documentation](https://ceph.readthedocs.io/en/latest/radosgw/s3/python/)
 + [Popular Blocks](https://bl.ocks.org/)
@@ -256,7 +254,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Interesting Ideas
 + [No-fuss reference management for the web](https://paperpile.com/)
 + [Find Impact Factor](https://www.resurchify.com/impact-factor.php)
-
++ [The future of online college is here.](https://www.outlier.org/)
 
 ### Smart work Bootstrap
 + [Bootstrap Snippets](https://bootstrapious.com/snippets)
@@ -277,3 +275,5 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [All About Linux.](https://www.linuxfordevices.com/)
 + [All About GoLang.](https://golangdocs.com/)
 + [journaldev](https://www.journaldev.com/)
+### Vue
++ [Vue Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-vue/)
