@@ -6,6 +6,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [The Best Concept Based Learning Platform](https://dontmemorise.com/)
 + [Digital learning, simplified.](https://clever.com/)
 + [Eloquent JavaScript](https://eloquentjavascript.net/)
++ [Week 1: Building a Solid Foundation with HTML](https://medium.com/@zac_heisey/week-1-building-a-solid-foundation-with-html-f485669097f0)
 ### Rare docs
 + [Ceph Documentation](https://ceph.readthedocs.io/en/latest/radosgw/s3/python/)
 + [Popular Blocks](https://bl.ocks.org/)
@@ -283,12 +284,15 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Tailblocks](https://tailblocks.cc/)
 + [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/css/images)
 + [Upload on AWS S3 with Express.js and Vue.js - Part 1](https://www.fabiofranchino.com/blog/upload-on-s3-with-express-and-vue-part-1/)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
+### Cognito in vue Idea
++ [Getting Started With AWS Cognito](https://tutorialedge.net/projects/building-blog-with-vuejs-aws/part-5-getting-started-with-cognito/)
+### Personal
++ [lost with purpose](https://www.lostwithpurpose.com/)
++ [Introduction to Apollo Server](https://www.apollographql.com/docs/apollo-server/)
++ [JavaScript Teacher](https://jstutorial.medium.com/)
++ [Hi, I’m Zac](https://www.zac-heisey.com/)
++ [Zac Heisey](https://medium.com/@zac_heisey)
++ [Tweek](https://tweek.so/)
+### Inspiration
++ [dotdash](https://www.dotdash.com/)
 + []()
