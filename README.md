@@ -284,6 +284,21 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Tailblocks](https://tailblocks.cc/)
 + [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/css/images)
 + [Upload on AWS S3 with Express.js and Vue.js - Part 1](https://www.fabiofranchino.com/blog/upload-on-s3-with-express-and-vue-part-1/)
++ [A Warm Welcome To My Blog](https://mithicher.com/resources)
++ [https://content.nuxtjs.org/](https://content.nuxtjs.org/)
++ [https://nuxtjs.org/blog/creating-blog-with-nuxt-content](https://nuxtjs.org/blog/creating-blog-with-nuxt-content)
++ [https://nuxt-content-and-forestry.netlify.app/](https://nuxt-content-and-forestry.netlify.app/)
++ [https://redfern.dev/articles/adding-pagination-nuxt-content-blog/](https://redfern.dev/articles/adding-pagination-nuxt-content-blog/)
++ [https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/](https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/)
+
+### Aws
++ [Serverless Framework - Learn How to Upload Files to AWS S3 Using NodeJs](https://saleem.dev/blog/upload-files-to-s3-using-serverless-framework/)
++ []()
++ []()
+
+### Tailwind
++ [Tailwind Starter Templates](https://www.tailwindtoolbox.com/starter-templates)
+
 ### Cognito in vue Idea
 + [Getting Started With AWS Cognito](https://tutorialedge.net/projects/building-blog-with-vuejs-aws/part-5-getting-started-with-cognito/)
 ### Personal
