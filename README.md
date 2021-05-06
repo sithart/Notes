@@ -298,9 +298,15 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 
 ### Tailwind
 + [Tailwind Starter Templates](https://www.tailwindtoolbox.com/starter-templates)
++ [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss)
++ [Kometa UI KitFree](https://kitwind.io/products/kometa/components/)
++ [Kickstart your next website in minutes ](https://mambaui.com/)
++ [atomic design toolkit ](https://a17t.miles.land/)
 
 ### Cognito in vue Idea
 + [Getting Started With AWS Cognito](https://tutorialedge.net/projects/building-blog-with-vuejs-aws/part-5-getting-started-with-cognito/)
++ []()
++ []()
 ### Personal
 + [lost with purpose](https://www.lostwithpurpose.com/)
 + [Introduction to Apollo Server](https://www.apollographql.com/docs/apollo-server/)
@@ -308,6 +314,14 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Hi, I’m Zac](https://www.zac-heisey.com/)
 + [Zac Heisey](https://medium.com/@zac_heisey)
 + [Tweek](https://tweek.so/)
++ []()
++ []()
 ### Inspiration
 + [dotdash](https://www.dotdash.com/)
++ []()
++ []()
+### Machine Learning
++ [neuml](https://neuml.com/)
++ [A set of functions that make it easier to manipulate text (keyword extraction, keyword labeling, conditional filtration)
+#A brief description of each function is provided below the function declaration](https://github.com/dimitryslavin/Text_Mining_Toolbox/blob/master/text_mining_toolbox2.py)
 + []()
