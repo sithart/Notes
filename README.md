@@ -290,6 +290,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [https://nuxt-content-and-forestry.netlify.app/](https://nuxt-content-and-forestry.netlify.app/)
 + [https://redfern.dev/articles/adding-pagination-nuxt-content-blog/](https://redfern.dev/articles/adding-pagination-nuxt-content-blog/)
 + [https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/](https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/)
++ [Vue Templates](https://therichpost.com/category/vue-template/)
 
 ### Aws
 + [Serverless Framework - Learn How to Upload Files to AWS S3 Using NodeJs](https://saleem.dev/blog/upload-files-to-s3-using-serverless-framework/)
@@ -302,6 +303,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Kometa UI KitFree](https://kitwind.io/products/kometa/components/)
 + [Kickstart your next website in minutes ](https://mambaui.com/)
 + [atomic design toolkit ](https://a17t.miles.land/)
+
 
 ### Cognito in vue Idea
 + [Getting Started With AWS Cognito](https://tutorialedge.net/projects/building-blog-with-vuejs-aws/part-5-getting-started-with-cognito/)
