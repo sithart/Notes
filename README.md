@@ -291,6 +291,17 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [https://redfern.dev/articles/adding-pagination-nuxt-content-blog/](https://redfern.dev/articles/adding-pagination-nuxt-content-blog/)
 + [https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/](https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/)
 + [Vue Templates](https://therichpost.com/category/vue-template/)
++ [made with vue.js](https://madewithvuejs.com/)
+
+### Vue Github
++ [A simple Vue application to manage your cash flow.](https://github.com/Sanfra1407/Vue-Cash-Flow)
++ [Frontend for DockerRails, built with Vue.js ](https://github.com/ledermann/docker-vue)
++ [A simple vue base template for admin system](https://github.com/tarnishablec/frog-admin)
++ []()
++ []()
++ []()
++ []()
+
 
 ### Aws
 + [Serverless Framework - Learn How to Upload Files to AWS S3 Using NodeJs](https://saleem.dev/blog/upload-files-to-s3-using-serverless-framework/)
@@ -320,10 +331,16 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + []()
 ### Inspiration
 + [dotdash](https://www.dotdash.com/)
-+ []()
++ [https://docs.snipcart.com/v3/tutorials](https://docs.snipcart.com/v3/tutorials)
 + []()
 ### Machine Learning
 + [neuml](https://neuml.com/)
 + [A set of functions that make it easier to manipulate text (keyword extraction, keyword labeling, conditional filtration)
 #A brief description of each function is provided below the function declaration](https://github.com/dimitryslavin/Text_Mining_Toolbox/blob/master/text_mining_toolbox2.py)
 + []()
+
+### Serverless
++ [Your CORS and API Gateway survival guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
++ [Handling CORS with Node.js](https://stackabuse.com/handling-cors-with-node-js/)
++ [Upload files to AWS S3 using pre-signed POST data and a Lambda function](https://www.webiny.com/blog/upload-files-to-aws-s3-using-pre-signed-post-data-and-a-lambda-function-7a9fb06d56c1)
++ [Rust and Serverless Blog Claps](https://coffeecodeclimb.com/2020/06/07/rust-and-serverless-blog-claps/#the-mission)
