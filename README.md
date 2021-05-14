@@ -305,8 +305,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 
 ### Aws
 + [Serverless Framework - Learn How to Upload Files to AWS S3 Using NodeJs](https://saleem.dev/blog/upload-files-to-s3-using-serverless-framework/)
-+ []()
-+ []()
++ [Get Started with AWS S3](https://www.webiny.com/blog/get-started-with-aws-s3)
++ [User Authentication and Authorization with AWS Cognito](https://1billiontech.com/blog_User_Authentication_and_Authorization_with_AWS_Cognito.php)
++ [User Authentication and Authorization with AWS Cognito](https://medium.com/@sumindaniro/user-authentication-and-authorization-with-aws-cognito-d204492dd1d0)
++ [ SumindaD-AWSCognitoUserPools](https://github.com/SumindaD/AWSCognitoUserPools)
 
 ### Tailwind
 + [Tailwind Starter Templates](https://www.tailwindtoolbox.com/starter-templates)
