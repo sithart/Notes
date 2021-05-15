@@ -309,6 +309,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [User Authentication and Authorization with AWS Cognito](https://1billiontech.com/blog_User_Authentication_and_Authorization_with_AWS_Cognito.php)
 + [User Authentication and Authorization with AWS Cognito](https://medium.com/@sumindaniro/user-authentication-and-authorization-with-aws-cognito-d204492dd1d0)
 + [ SumindaD-AWSCognitoUserPools](https://github.com/SumindaD/AWSCognitoUserPools)
++ [Serverless Stack Guide](https://serverless-stack.com/#cors)
 
 ### Tailwind
 + [Tailwind Starter Templates](https://www.tailwindtoolbox.com/starter-templates)
@@ -346,3 +347,13 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Handling CORS with Node.js](https://stackabuse.com/handling-cors-with-node-js/)
 + [Upload files to AWS S3 using pre-signed POST data and a Lambda function](https://www.webiny.com/blog/upload-files-to-aws-s3-using-pre-signed-post-data-and-a-lambda-function-7a9fb06d56c1)
 + [Rust and Serverless Blog Claps](https://coffeecodeclimb.com/2020/06/07/rust-and-serverless-blog-claps/#the-mission)
++ [Robin Wieruch](https://www.robinwieruch.de/)
++ [A Cloud Guru](https://acloudguru.com/blog/tag/aws/page/2)
++ [50 starter kits and resources for building serverless apps](https://techbeacon.com/enterprise-it/50-starter-kits-resources-building-serverless-apps)
+
+### React
++ [Dave Ceddia](https://daveceddia.com/archives/)
+
+### knowledgecenter
++ [Transformational Bioinformatics Bringing academic brilliance to research and industry problems](https://bioinformatics.csiro.au/)
++ [Marc's Blog](https://brooker.co.za/blog/)
