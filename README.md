@@ -44,6 +44,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [tympanus](https://tympanus.net/codrops/all-articles/page/3/)
 + [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
 + [A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons.](https://templated.co/)
++ [Your trusted source for Technology Resources ](https://geekflare.com/)
++ []()
 ### Crawling
 + [Scheduled Web Scraping with Django and Heroku](https://towardsdatascience.com/scheduled-web-scraping-with-django-and-heroku-e832e1363c7a)
 + [Top 20 Web Crawling Tools to Scrape the Websites Quickly](https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data)  
@@ -223,6 +225,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Using GitHub to host a free static website](https://www.geeksforgeeks.org/using-github-to-host-a-free-static-website/)
 + [10 Amazing Sites to Download Free Stock Photos](https://lineicons.com/blog/)
 + [Best Websites to Explore and Download Free Design Resources](https://lineicons.com/blog/design-resources/)
+
 ### React JS
 + [React Resources](https://reactresources.com/)
 ### ChatBot
