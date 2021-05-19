@@ -295,6 +295,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/](https://saleem.dev/blog/tailwindcss-v2-enable-dark-mode-using-class/)
 + [Vue Templates](https://therichpost.com/category/vue-template/)
 + [made with vue.js](https://madewithvuejs.com/)
++ [Antenna is a small studio crafting digital products (things like web services, APIs, mobile apps, websites). ](https://antenna.io/blog)
 
 ### Vue Github
 + [A simple Vue application to manage your cash flow.](https://github.com/Sanfra1407/Vue-Cash-Flow)
