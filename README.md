@@ -18,6 +18,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Programming Guides Easy to follow guides on complex topics written and maintained by the community](https://roadmap.sh/guides)
 + [Developer Roadmaps Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 + [I'm Tania Rascia](https://www.taniarascia.com/)
++ [Flavio Copes](https://flaviocopes.com/)
 ### Hardwares
 + [We do R&D](https://www.rhydo.com/)
 ### Guido Van Rossum
@@ -269,8 +270,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [500 HTML5 ready-blocks ](https://demo.bootstraptor.com/blueprints-app/demo.html#)
 + [ Free Bootstrap Templates & Layouts ](https://dartthemes.com/builder/)
 + [Discover each crafted responsive design templates , ready to be use and to be customize to make your website amazing.](http://www.mashup-template.com/templates.html)
-+ [Bootstrap 4 Snippets Free ready to use UI design elements / templates, code snippets and playground for the Bootstrap framework.
-](https://www.tutorialrepublic.com/snippets/gallery.php?tag=navbar)
++ [Bootstrap 4 Snippets Free ready to use UI design elements / templates, code snippets and playground for the Bootstrap framework.](https://www.tutorialrepublic.com/snippets/gallery.php?tag=navbar)
 
 ### SmartWorks
 + [One Word Domains](https://www.oneword.domains/)
@@ -296,6 +296,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Vue Templates](https://therichpost.com/category/vue-template/)
 + [made with vue.js](https://madewithvuejs.com/)
 + [Antenna is a small studio crafting digital products (things like web services, APIs, mobile apps, websites). ](https://antenna.io/blog)
++ [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/)
++ [vuejsdevelopers](https://vuejsdevelopers.com/blog/)
++ [How To Build a Modal Component with Vue.js](https://www.digitalocean.com/community/tutorials/vuejs-vue-modal-component)
++ [Building Context Menu in Vue.js](https://dev.to/hunterjsbit/building-context-menu-in-vue-js-2cbn)
++ [Vue.js - Scoped Styles vs CSS Modules ](https://www.netguru.com/codestories/vue.js-scoped-styles-vs-css-modules)
 
 ### Vue Github
 + [A simple Vue application to manage your cash flow.](https://github.com/Sanfra1407/Vue-Cash-Flow)
@@ -344,8 +349,15 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [neuml](https://neuml.com/)
 + [A set of functions that make it easier to manipulate text (keyword extraction, keyword labeling, conditional filtration)
 #A brief description of each function is provided below the function declaration](https://github.com/dimitryslavin/Text_Mining_Toolbox/blob/master/text_mining_toolbox2.py)
-+ []()
 
+### JavaScript
++ [masteringjs](https://masteringjs.io/all)
++ [How To Upload a File to Object Storage with Node.js](https://www.digitalocean.com/community/tutorials/how-to-upload-a-file-to-object-storage-with-node-js)
++ []()
++ []()
++ []()
++ []()
++ []()
 ### Serverless
 + [Your CORS and API Gateway survival guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
 + [Handling CORS with Node.js](https://stackabuse.com/handling-cors-with-node-js/)
@@ -361,3 +373,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### knowledgecenter
 + [Transformational Bioinformatics Bringing academic brilliance to research and industry problems](https://bioinformatics.csiro.au/)
 + [Marc's Blog](https://brooker.co.za/blog/)
++ [https://tweek.so/](https://tweek.so/)
++ [21 must-read books to help you create a culture of belonging](https://www.qualtrics.com/ebooks-guides/belonging-book-list/)
++ [NFTs Are Shaking Up the Art World—But They Could Change So Much More](https://time.com/5947720/nft-art/)
++ [Creative Tim ](https://github.com/creativetimofficial)
++ [Etherscan](https://etherscan.io/tx/0xa342e9de61c34900883218fe52bc9931daa1a10b6f48c506f2253c279b15e5bf)
+
+### All in One blogs
++ [Browse All Smashing Magazine Topics](https://www.smashingmagazine.com/)
