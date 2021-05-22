@@ -306,7 +306,9 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [A simple Vue application to manage your cash flow.](https://github.com/Sanfra1407/Vue-Cash-Flow)
 + [Frontend for DockerRails, built with Vue.js ](https://github.com/ledermann/docker-vue)
 + [A simple vue base template for admin system](https://github.com/tarnishablec/frog-admin)
-+ []()
+
+### Node
++ [Future Studio Tutorials](https://futurestud.io/tutorials)
 + []()
 + []()
 + []()
@@ -378,6 +380,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [NFTs Are Shaking Up the Art World—But They Could Change So Much More](https://time.com/5947720/nft-art/)
 + [Creative Tim ](https://github.com/creativetimofficial)
 + [Etherscan](https://etherscan.io/tx/0xa342e9de61c34900883218fe52bc9931daa1a10b6f48c506f2253c279b15e5bf)
++ [Become an Awesome Software Developer!](https://www.educba.com/software-development/)
++ [Posts About Node.js](https://alligator.io/nodejs/)
 
 ### All in One blogs
 + [Browse All Smashing Magazine Topics](https://www.smashingmagazine.com/)
