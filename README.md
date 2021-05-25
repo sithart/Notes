@@ -301,6 +301,12 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [How To Build a Modal Component with Vue.js](https://www.digitalocean.com/community/tutorials/vuejs-vue-modal-component)
 + [Building Context Menu in Vue.js](https://dev.to/hunterjsbit/building-context-menu-in-vue-js-2cbn)
 + [Vue.js - Scoped Styles vs CSS Modules ](https://www.netguru.com/codestories/vue.js-scoped-styles-vs-css-modules)
++ [techformist](https://techformist.com/categories/vue/)
++ [Reactgo](https://reactgo.com/)
++ [Editable interfaces with Vue.js and Tailwindcss ](https://www.binarcode.com/blog/editable-interfaces-with-vuejs-and-tailwind/)
++ [positronx](https://www.positronx.io/vue/page/2/)
+
+
 
 ### Vue Github
 + [A simple Vue application to manage your cash flow.](https://github.com/Sanfra1407/Vue-Cash-Flow)
