@@ -1,6 +1,60 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
+
+### What is RPA
++ [Robotic Process Automation](https://www.version1.com/it-service/innovation-labs/rpa/)
+
+
+### Scraping Resources
++ [500+ awesome bookmarks for Data Science & Machine Learning](https://towardsdatascience.com/500-free-high-quality-online-resources-for-data-science-machine-learning-7eda5bf33872)
++ [Python Classes and Objects](https://www.pythonprogramming.in/classes-and-objects.html)
++ [Data extractor for PDF invoices - invoice2data](https://github.com/invoice-x/invoice2data)
++ [Python regular expression cheatsheet and examples](https://learnbyexample.github.io/python-regex-cheatsheet/)
++ [awesome-web-scraping ](https://github.com/lorien/awesome-web-scraping/blob/master/python.md)
++ [Extracting Data from Invoices with Google AutoML Natural Language](https://www.arthurkoziel.com/automl-invoice-data-extraction)
++ [5+ Unique Python Modules For Creating Machine Learning and Data Science Projects That Stand Out](https://towardsdatascience.com/5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae)
++ []()
++ []()
++ []()
++ []()
+
+### Regex
++ [Regex Cheat Sheet: A Quick Guide to Regular Expressions in Python](https://www.dataquest.io/blog/regex-cheatsheet/)
++ [https://learnbyexample.github.io/python-regex-cheatsheet/](https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions/)
++ []()
++ []()
++ []()
++ []()
+
+### OCR Scraping
++ [Reading Text from Invoice Images with Python](https://hypi.io/2019/10/29/reading-text-from-invoice-images-with-python/)
++ [OCR a document, form, or invoice with Tesseract, OpenCV, and Python](https://www.pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/)
++ [How to Extract Text from Images in Python using OpenCV and EasyOCR](https://blog.finxter.com/how-to-extract-text-from-images-ocr-in-python-using-opencv-and-easyocr/)
++ [Automating Receipt Digitization with OCR and Deep Learning](https://nanonets.com/blog/receipt-ocr/amp/)
++ [https://nanonets.com/blog/](https://nanonets.com/blog/)
++ [How to crop an image in Python](https://www.askpython.com/python/examples/crop-an-image-in-python)
++ [Optical Character Recognition (OCR) in Python](https://www.askpython.com/python/examples/optical-character-recognition)
++ [PDF scraping: Tim Hortons Invoice](https://kaijento.github.io/2017/03/28/pdf-scraping-tim-hortons-invoice/)
++ [regex](https://kaijento.github.io/categories/regex/)
++ [Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV](https://learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
++ [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
++ [My Experience Extracting Invoice Data Using invoice2data in Python](https://medium.com/version-1/my-experience-extracting-invoice-data-using-invoice2data-in-python-1c6450fa001f)
+
+### PDF Scraping
++ [Data extraction from a PDF table with semi-structured layout](https://towardsdatascience.com/data-extraction-from-a-pdf-table-with-semi-structured-layout-ef694f3f8ff1)
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
+
 ### Learning Sites
 + [India's Learning Won't Stop](https://www.vedantu.com/)
 + [The Best Concept Based Learning Platform](https://dontmemorise.com/)
@@ -138,6 +192,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### Career
 + [Big Data Science MSc](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/big-data-science-msc/)
 ### Python Snippets
++ [100+ Python challenging programming exercises for Python 3](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md)
 + [Welcome to Python Cheatsheet!](https://www.pythoncheatsheet.org/)
 + [ZetCode](http://zetcode.com/all/#python)
 + [ActiveState](https://code.activestate.com/)
