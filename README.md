@@ -51,8 +51,20 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Identify matching documents using template matching](https://github.com/adl1995/document-matcher)
 + [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/)
 + [Mitosis Image Processing Part 1 - Template Matching Using OpenCV](https://tonyzhangnd.github.io/2017/07/Mitosis-Image-Processing-1.html)
++ [Unstructured Document Recognitionon Business Invoice](http://cs229.stanford.edu/proj2016/report/LiuWanZhang-UnstructuredDocumentRecognitionOnBusinessInvoice-report.pdf)
++ [How to build an Automated Invoice Processing workflow](https://nanonets.com/blog/automated-invoice-processing/)
++ [Invoice / OCR: Detect two important points in invoice image](https://stackoverflow.com/questions/19113525/invoice-ocr-detect-two-important-points-in-invoice-image)
++ [How can we extract fields from images?](https://datascience.stackexchange.com/questions/66577/how-can-we-extract-fields-from-images)
++ [Python | Document field detection using Template Matching](https://www.geeksforgeeks.org/python-document-field-detection-using-template-matching/)
 + []()
 + []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
+
 
 
 ### PDF Scraping
