@@ -40,6 +40,20 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV](https://learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 + [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
 + [My Experience Extracting Invoice Data Using invoice2data in Python](https://medium.com/version-1/my-experience-extracting-invoice-data-using-invoice2data-in-python-1c6450fa001f)
++ [How to extract data from invoices in tabular format](https://stackoverflow.com/questions/61265666/how-to-extract-data-from-invoices-in-tabular-format)
++ [Using Graph Convolutional Neural Networks on Structured Documents for Information Extraction](https://towardsdatascience.com/using-graph-convolutional-neural-networks-on-structured-documents-for-information-extraction-c1088dcd2b8f)
++ [Scan and extract text from an image using Python libraries](https://developer.ibm.com/languages/python/tutorials/document-scanner/)
++ [How to extract table as text from the PDF using Python?](https://stackoverflow.com/questions/47533875/how-to-extract-table-as-text-from-the-pdf-using-python)
++ [Kraken, the unknown Python OCR system](https://www.webuildinternet.com/2016/10/01/kraken-the-unknown-python-ocr-system/)
++ [Template matching using OpenCV](https://theailearner.com/2020/12/12/template-matching-using-ope)
++ [OpenCV Template Matching ( cv2.matchTemplate )](https://www.pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/)
++ [Object detection with templates](https://pythonspot.com/object-detection-with-templates/)
++ [Identify matching documents using template matching](https://github.com/adl1995/document-matcher)
++ [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/)
++ [Mitosis Image Processing Part 1 - Template Matching Using OpenCV](https://tonyzhangnd.github.io/2017/07/Mitosis-Image-Processing-1.html)
++ []()
++ []()
+
 
 ### PDF Scraping
 + [Data extraction from a PDF table with semi-structured layout](https://towardsdatascience.com/data-extraction-from-a-pdf-table-with-semi-structured-layout-ef694f3f8ff1)
