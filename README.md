@@ -1,6 +1,10 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
+### Rust
++ [Rust Learning Resources](https://serokell.io/blog/learn-rust)
++ [Easy Rust](https://dhghomon.github.io/easy_rust/)
++ [Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)
 
 ### What is RPA
 + [Robotic Process Automation](https://www.version1.com/it-service/innovation-labs/rpa/)
