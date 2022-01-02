@@ -1,6 +1,11 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
+## Slack
+Here I have to attach the slack shared blogs and lib
+Nks
+
+
 ### Rust
 + [Rust Learning Resources](https://serokell.io/blog/learn-rust)
 + [Easy Rust](https://dhghomon.github.io/easy_rust/)
