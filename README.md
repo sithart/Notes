@@ -23,18 +23,10 @@ Nks
 + [awesome-web-scraping ](https://github.com/lorien/awesome-web-scraping/blob/master/python.md)
 + [Extracting Data from Invoices with Google AutoML Natural Language](https://www.arthurkoziel.com/automl-invoice-data-extraction)
 + [5+ Unique Python Modules For Creating Machine Learning and Data Science Projects That Stand Out](https://towardsdatascience.com/5-unique-python-modules-for-creating-machine-learning-and-data-science-projects-that-stand-out-a890519de3ae)
-+ []()
-+ []()
-+ []()
-+ []()
 
 ### Regex
 + [Regex Cheat Sheet: A Quick Guide to Regular Expressions in Python](https://www.dataquest.io/blog/regex-cheatsheet/)
 + [https://learnbyexample.github.io/python-regex-cheatsheet/](https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions/)
-+ []()
-+ []()
-+ []()
-+ []()
 
 ### OCR Scraping
 + [Reading Text from Invoice Images with Python](https://hypi.io/2019/10/29/reading-text-from-invoice-images-with-python/)
@@ -65,30 +57,10 @@ Nks
 + [Invoice / OCR: Detect two important points in invoice image](https://stackoverflow.com/questions/19113525/invoice-ocr-detect-two-important-points-in-invoice-image)
 + [How can we extract fields from images?](https://datascience.stackexchange.com/questions/66577/how-can-we-extract-fields-from-images)
 + [Python | Document field detection using Template Matching](https://www.geeksforgeeks.org/python-document-field-detection-using-template-matching/)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-
 
 
 ### PDF Scraping
 + [Data extraction from a PDF table with semi-structured layout](https://towardsdatascience.com/data-extraction-from-a-pdf-table-with-semi-structured-layout-ef694f3f8ff1)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
 
 ### Learning Sites
 + [India's Learning Won't Stop](https://www.vedantu.com/)
@@ -135,7 +107,6 @@ Nks
 + [GoesToEleven/html-css-bootcamp](https://github.com/GoesToEleven/html-css-bootcamp)
 + [A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons.](https://templated.co/)
 + [Your trusted source for Technology Resources ](https://geekflare.com/)
-+ []()
 ### Crawling
 + [Scheduled Web Scraping with Django and Heroku](https://towardsdatascience.com/scheduled-web-scraping-with-django-and-heroku-e832e1363c7a)
 + [Top 20 Web Crawling Tools to Scrape the Websites Quickly](https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data)  
