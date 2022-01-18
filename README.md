@@ -5,6 +5,8 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 Here I have to attach the slack shared blogs and lib
 Nks
 
+### Data Anakytics
++ [Text ratio Comparision](http://aishelf.org/str-comparison/)
 
 ### Rust
 + [Rust Learning Resources](https://serokell.io/blog/learn-rust)
