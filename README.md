@@ -5,6 +5,9 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 Here I have to attach the slack shared blogs and lib
 Nks
 
+### Sagemaker
++ [Count Objects in an Image with MXNet and Amazon SageMaker](https://cosminsanda.com/posts/counting-object-with-mxnet-and-sagemaker/)
+
 ### Data Anakytics
 + [Text ratio Comparision](http://aishelf.org/str-comparison/)
 
