@@ -457,3 +457,4 @@ Nks
 
 ### All in One blogs
 + [Browse All Smashing Magazine Topics](https://www.smashingmagazine.com/)
++ [PRIMO.ai](http://primo.ai/index.php?title=PRIMO.ai)
