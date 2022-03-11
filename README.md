@@ -1,6 +1,11 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
+## Todos
+- Getting the all slacks saved messages.
+- Refactoring the All github Accounts.
+
+
 ## Slack
 Here I have to attach the slack shared blogs and lib
 Nks
