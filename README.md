@@ -1,6 +1,13 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
+
+
+## Resources
++ [Create React App](https://create-react-app.dev/docs/getting-started/)
++ [OCR-D Workflow Guide](https://ocr-d.de/en/workflows)
+
+
 ## Todos
 - Getting the all slacks saved messages.
 - Refactoring the All github Accounts.
@@ -427,6 +434,7 @@ Nks
 ### Machine Learning
 + [neuml](https://neuml.com/)
 + [A set of functions that make it easier to manipulate text (keyword extraction, keyword labeling, conditional filtration)
++ [Mathematics of machine learning](https://www.tivadardanka.com/blog)
 #A brief description of each function is provided below the function declaration](https://github.com/dimitryslavin/Text_Mining_Toolbox/blob/master/text_mining_toolbox2.py)
 
 ### JavaScript
@@ -463,3 +471,8 @@ Nks
 ### All in One blogs
 + [Browse All Smashing Magazine Topics](https://www.smashingmagazine.com/)
 + [PRIMO.ai](http://primo.ai/index.php?title=PRIMO.ai)
+
+
+### From Discord
++ [Python OOPS concepts](https://python.swaroopch.com/data_structures.html)
++ [Python Basics](https://pythonbasics.org/variables/)
