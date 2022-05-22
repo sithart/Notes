@@ -7,6 +7,11 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Create React App](https://create-react-app.dev/docs/getting-started/)
 + [OCR-D Workflow Guide](https://ocr-d.de/en/workflows)
 
+## Mathematics
++ [Cumulative Frequency](https://www.mathsisfun.com/definitions/cumulative-frequency.html)
+
+## Numpy
++ [Numpy Handbook](https://www.dropbox.com/s/7itbzzxe625ux5m/Numpy%20Handbook.pdf?dl=0)
 
 ## Todos
 - Getting the all slacks saved messages.
