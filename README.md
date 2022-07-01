@@ -1,7 +1,23 @@
 # Notes
 This is a repository of self-worked example code for Simple Notes Study Notes
 
-
+# Topics
+01) Resources
+02) Mathematics
+03) Numpy
+04) Todos
+05) SageMaker
+06) Data Analytics
+07) Rust
+08) What is RPA
+09) Scraping resources
+10) Regex
+11) OCR scraping
+12) PDF scraping
+13) Learning Sites
+14) Rare Docs
+15) Rare Links
+16) Block for smart developers
 
 ## Resources
 + [Create React App](https://create-react-app.dev/docs/getting-started/)
@@ -13,19 +29,10 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ## Numpy
 + [Numpy Handbook](https://www.dropbox.com/s/7itbzzxe625ux5m/Numpy%20Handbook.pdf?dl=0)
 
-## Todos
-- Getting the all slacks saved messages.
-- Refactoring the All github Accounts.
-
-
-## Slack
-Here I have to attach the slack shared blogs and lib
-Nks
-
 ### Sagemaker
 + [Count Objects in an Image with MXNet and Amazon SageMaker](https://cosminsanda.com/posts/counting-object-with-mxnet-and-sagemaker/)
 
-### Data Anakytics
+### Data Analytics
 + [Text ratio Comparision](http://aishelf.org/str-comparison/)
 
 ### Rust
