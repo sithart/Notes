@@ -37,7 +37,43 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 33) Career
 34) Python Snippets
 35) 2020
-
+36) Recommendation
+37) django
+38) Quantum Computing
+39) NLP
+40) Awesome Websites
+41) Covid-19
+42) coding and solutions
+43) UI & UX design
+44) IDE
+45) Python Tricks
+46) No code
+47) Stat
+48) website
+49) React JS
+50) Silican valley Tech News
+51) Collections
+52) Best Github for learning
+53) Articles
+54) Interesting Ideas
+55) Smart work Bootstrap
+56) SmartWorks
+57) Python blogs
+58) Vue
+59) Vue Github
+60) Node
+61) Aws
+62) Tailwind
+63) Cognito in vue Idea
+64) Personal
+65) Inspiration
+66) Machine Learning
+67) JavaScript
+68) Serverless
+69) React
+70) knowledgecenter
+71) All in One blogs
+72) From Discord
 
 ## Recent Links
 
