@@ -17,7 +17,31 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 13) Learning Sites
 14) Rare Docs
 15) Rare Links
-16) Block for smart developers
+16) Blogs for smart developers
+17) Hardwares
+18) Guido Van Rossum
+19) Docs & Next Gen
+20) Web Development Snippets
+21) Crawling
+22) Data Archive
+23) Documentation Collections
+24) Data Analysis & visualization
+25) Article Collections
+26) Bootstrap
+27) Following
+28) Recommendation
+29) NLP with demo source code
+30) Rust
+31) swift
+32) Python Blogs
+33) Career
+34) Python Snippets
+35) 2020
+
+
+## Recent Links
+
+
 
 ## Resources
 + [Create React App](https://create-react-app.dev/docs/getting-started/)
