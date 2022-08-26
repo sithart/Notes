@@ -548,3 +548,9 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 ### From Discord
 + [Python OOPS concepts](https://python.swaroopch.com/data_structures.html)
 + [Python Basics](https://pythonbasics.org/variables/)
+
+### Using reCAPTCHA v3 with Django 
++ [ordinary coders](https://ordinarycoders.com/blog/article/recaptcha-django)
++ [Using reCAPTCHA v3 with Django](https://foxrow.com/using-recaptcha-v3-with-django)
++ [How To Implement Google Recaptcha v3 on Your Django App](https://blog.ihfazh.com/how-to-implement-google-recaptcha-v3-on-your-django-app.html)
++ [Add reCAPTCHA In Your Django App: Increase Security](https://studygyaan.com/django/add-recaptcha-in-your-django-app-increase-security)
