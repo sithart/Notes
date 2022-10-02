@@ -554,3 +554,27 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [Using reCAPTCHA v3 with Django](https://foxrow.com/using-recaptcha-v3-with-django)
 + [How To Implement Google Recaptcha v3 on Your Django App](https://blog.ihfazh.com/how-to-implement-google-recaptcha-v3-on-your-django-app.html)
 + [Add reCAPTCHA In Your Django App: Increase Security](https://studygyaan.com/django/add-recaptcha-in-your-django-app-increase-security)
++ [How to use reCAPTCHA in Django](https://pythoncircle.com/post/183/how-to-use-google-recaptcha-in-django/)
++ [From Browser To Django](https://www.mattlayman.com/understand-django/browser-to-django/?s=08)
+
+
+### Others
++ [9 Best Websites for Practising and Perfecting Front-End Development](https://flexsub.shop/9-best-websites-for-practising-and-perfecting-front-end-development/)
++ [How To Use argparse to Write Command-Line Programs in Python](https://www.digitalocean.com/community/tutorials/how-to-use-argparse-to-write-command-line-programs-in-python)
++ [Data Engineering Fundamentals](https://thinamxx.github.io/thinam.ai/DataEngineering/)
++ [A python package with selenium to download high-res image using Google Search by Image ](https://dev.to/dillir07/a-python-package-with-selenium-to-download-high-res-image-using-google-search-by-image-6ok)
++ [Ordinary Coders](https://ordinarycoders.com/)
++ [2021 Qiskit Global Summer School on Quantum Machine Learning ](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/)
++ [Introduction to Quantum Computing
+with IBM Quantum](https://www.qubitbyqubit.org/course-info#)
++ [Journey of 66DaysOfData in Natural Language Processing](https://thinamxx.github.io/thinam.ai/NLP/)
++ [DataTalks.Club](https://datatalks.club/articles.html)
++ [Create and customize your bio link in minutes](https://linktr.ee/)
++ [Matt Layman](https://www.mattlayman.com/)
++ [Updated Functional results - 2020](https://sites.google.com/view/energy-efficiency-languages/updated-functional-results-2020)
++ [https://tryhackme.com/](https://tryhackme.com/)
++ [Kerala Blockchain AcademyOnline Learning Center](https://elearning.kba.ai/)
++ [Radically efficient machine teaching.An annotation tool poweredby active learning.](https://prodi.gy/)
++ [Everyday AI, Extraordinary People](https://www.dataiku.com/)
++ [Intro to Machine Learning](https://knowledge.dataiku.com/latest/courses/intro-to-ml/index.html)
++ [ML Zoomcamp Learn ML Engineering in 4 months in a free online course:](https://airtable.com/shryxwLd0COOEaqXo)
