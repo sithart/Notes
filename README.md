@@ -579,3 +579,27 @@ with IBM Quantum](https://www.qubitbyqubit.org/course-info#)
 + [Intro to Machine Learning](https://knowledge.dataiku.com/latest/courses/intro-to-ml/index.html)
 + [ML Zoomcamp Learn ML Engineering in 4 months in a free online course:](https://airtable.com/shryxwLd0COOEaqXo)
 + [Rust compiler](https://www.rust-lang.org/governance/teams/compiler)
++ [Lex](https://lexfridman.com/reading-list/)
++ [Top AI Stories of 2022](https://www.deeplearning.ai/the-batch/issue-176/)
++ [Analyzing Machine Learning models on a layer-by-layer basis](https://community.arm.com/arm-community-blogs/b/ai-and-ml-blog/posts/ml-models-layer-analysis)
++ [Exploring ChatGPT - Overview, Training and Limitations](https://kalyan-katikapalli.hashnode.dev/exploring-chatgpt-overview-training-and-limitations)
++ [ Machine Learning Engineer Learning Path
+A Machine Learning Engineer designs, builds, productionizes, optimizes, operates, and maintains ML systems](https://www.cloudskillsboost.google/paths/17)
++ [ML FreeLancing](https://datamachines.xyz/subscribe/)
++ [The Beginner’s Guide to API Hacking](https://danaepp.com/beginners-guide-to-api-hacking)
++ [Complex Projective 4-Space](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/)
++ [The medium is the message](https://en.m.wikipedia.org/wiki/The_medium_is_the_message)
++ [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
++ [Build your SaaS
+with React & Django ](https://saasitive.com/)
++ [How I Earned Over $30K in 8 Months as a Data Science Freelancer](https://blog.futuresmart.ai/how-i-earned-over-30k-in-8-months-as-a-data-science-freelancer)
++ [5 Feature Selection Method from Scikit-Learn you should know](https://towardsdatascience.com/5-feature-selection-method-from-scikit-learn-you-should-know-ed4d116e4172)
++ [
+Individual Household Electrric Power Consumption
+
+Aim : To predict the individual household electricity consumption depending on the following attributes.](https://github.com/barna-li/ML-Projects/blob/main/ELECTRICITY%20CONSUMPTION.ipynb)
++ []()
++ []()
++ []()
++ []()
++ []()
