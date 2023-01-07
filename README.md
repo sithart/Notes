@@ -598,7 +598,7 @@ with React & Django ](https://saasitive.com/)
 Individual Household Electrric Power Consumption
 
 Aim : To predict the individual household electricity consumption depending on the following attributes.](https://github.com/barna-li/ML-Projects/blob/main/ELECTRICITY%20CONSUMPTION.ipynb)
-+ []()
++ [https://scrapein.app/](https://scrapein.app/) #Scraping Blog, we got idea about what are the features they focused
 + []()
 + []()
 + []()
