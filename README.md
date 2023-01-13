@@ -75,7 +75,7 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 71) All in One blogs
 72) From Discord
 
-## Recent Links
+## Recent Links Updates
 
 
 
