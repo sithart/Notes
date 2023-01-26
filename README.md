@@ -76,6 +76,21 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 72) From Discord
 
 ## Recent Links Updates
++ [Jay Alammar](https://jalammar.github.io/)
++ [Want to reduce the interest rate on your US student loan? 📉](https://refinance-leap.paperform.co/)
++ [Unwind AI](https://unwindai.substack.com/archive?sort=top)
++ [https://illustrated-machine-learning.github.io/](https://illustrated-machine-learning.github.io/)
++ [Illustrated Machine Learning ](https://github.com/illustrated-machine-learning)
++ [My favourite books!](https://francescodisalvo05.github.io/books.html)
++ [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
++ [Andrew Ng: Unbiggen AI ](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
++ [https://vinija.ai/models/gpt/](https://vinija.ai/models/gpt/)
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
 
 
 
