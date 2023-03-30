@@ -392,6 +392,9 @@ This is a repository of self-worked example code for Simple Notes Study Notes
 + [10 Amazing Sites to Download Free Stock Photos](https://lineicons.com/blog/)
 + [Best Websites to Explore and Download Free Design Resources](https://lineicons.com/blog/design-resources/)
 
+### Layout
++ [Column Layouts](https://matthewjamestaylor.com/2-column-layouts)
+
 ### React JS
 + [React Resources](https://reactresources.com/)
 ### ChatBot
