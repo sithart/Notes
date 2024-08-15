@@ -621,3 +621,286 @@ Aim : To predict the individual household electricity consumption depending on t
 + []()
 + []()
 + []()
+
+my_collections(Google Chrome) : 16-08-2024 
+Part 2: Preventing Transit
+Step 3: Parameters (API reference tutorial) | Documenting APIs
+Invoice Information extraction using OCR and Deep Learning | by Sourav Ghosh | Analytics Vidhya | Medium
+Azure Form R… - JupyterLab
+How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 18.04 | DigitalOcean
+Bookmarker for Notion - Chrome Web Store
+Niyama-Health Management
+Representing foreign key values in Django serializers
+Income and Tax Calculator
+Chrome for Testing availability
+EleksTube IPS Classic Edition Gen2 6-Bit Digital Clock
+inno portable fan | inno
+AIRTH Air Purifier for AC [Winter Edition] when AQI: 200+, Operate AC on 'Fan Mode', Coated HEPA Filter Technology, Developed at IIT Kanpur & IISc Bangalore : Amazon.in: Toys & Games
+Explore CPJ's database of attacks on the press
+(Long)LLMLingua | Designing a Language for LLMs via Prompt Compression
+RAG.ipynb - Colaboratory
+(6) SQL Research Assistant - YouTube
+GitHub - pyg-team/pytorch-frame: Tabular Deep Learning Library for PyTorch
+Spark zero to hero in one NoteBook | Kaggle
+Text Generation | Donato Riccio | Substack
+Chat with PDFs: A Guide to Building a Chatbot Using LangChain and DeciLM-7B
+codingnotes.in
+Last Week in AI | Skynet Today
+Ulchemy Introductory Program in Trichy
+What’s a Dimensional Model and How to Implement It on the Databricks Lakehouse Platform - The Databricks Blog
+The 40 Under 40 Data Scientists Awards 2024: Meet the Winners
+Services | Zifo
+Pyspark Tutorial | Pyspark Online Tutorial for Beginners - HKR
+PySpark Tutorial : A beginner’s Guide 2024 - Great Learning
+Building a Movie Recommendation Service with Apache Spark & Flask - Part 2 | Codementor
+SparkPi Python Flask
+GitHub - Mozilla-Ocho/llamafile: Distribute and run LLMs with a single file.
+From Random Forest to Money Carlo to Rust | by TQ | Medium
+A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4 by Katikapalli Subramanyam Kalyan :: SSRN
+Certified Blockchain Associate | Best Blockchain Course For Beginners
+IBJA: An improved binary DJaya algorithm for feature selection - ScienceDirect
+The Top 100 Gen AI Consumer Apps | Andreessen Horowitz
+Introduction • Docs • Svelte
+Replit – Build software faster
+gmail
+notion
+NetScaler AAA
+Software
+Product Drivers List | ZOOM
+Chrome for Testing availability
+Web Scraping using Selenium and Python | ScrapingBee
+Adobe
+Adobe Account
+Investment
+My Blog
+We’re officially the world’s number one! – TradingView Blog
+Stocks to buy: L&amp;T Finance and Astra Microwave Products - two top picks by analysts
+Paytm share price gains for 2nd straight session, jumps 10% after Vijay Shekhar Sharma's meeting with FM
+India's state-owned stocks extend record run — TradingView News
+Top Gaining US Stocks — TradingView
+Magazine Archive - Vikatan
+Oil and Gas Industry in India: Investment Opportunities and FDI
+Gujarat: Gujarat emerges as India's 'petro capital' - The Economic Times
+Exchange4media: Advertising News, Latest Marketing, Media & Digital Industry Update
+Gold Price India
+scraping
+Automation Testing Blog
+seleniumhq.github.io/examples/python/tests/getting_started/test_first_script.py at trunk · SeleniumHQ/seleniumhq.github.io
+Python Async/Await
+django
+Django Tutorial
+Law
+Top Lawyers and Law Firm in Delhi - Giri and Company
+LawBotPro
+NyayGuru: India's First Legal AI Chatbot- Free Legal Advice
+ReadLater
+The k-Nearest Neighbors (kNN) Algorithm in Python – Real Python
+Introduction to Data-Centric AI
+[2209.14375] Improving alignment of dialogue agents via targeted human judgements
+2203.02155.pdf
+Pawel Sobocinski
+Sahibpreet singh
+(1) Neural Hacks with Vasanth - YouTube
+Embeddings_Reranker_Evaluation.ipynb - Colaboratory
+LLMs in Production - Part III - YouTube
+Lightning-AI/lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+Team - Standing Up for Indic Civilizational Values Through Legal Intervention
+Stanford CS 224N | Natural Language Processing with Deep Learning
+Rust LLMOps [Video]
+umair-choudhary94/EventBook-project-in-django: A project done for fiverr client
+Joint Tabular/Semantic QA over Tesla 10K - LlamaIndex 🦙 0.9.4
+How to write a research proposal: European Diabetes Nursing: Vol 3, No 2
+Illustrated Guide to Transformers- Step by Step Explanation | by Michael Phi | Towards Data Science
+Courses on Blockchain Technology | Kerala Blockchain Academy
+The-Grand-Complete-Data-Science-Materials/Complete MySQL Interview Materials at main · krishnaik06/The-Grand-Complete-Data-Science-Materials
+pyspark
+Learning Spark using Python: Basics and Applications - MLWhiz
+Big Data - MLWhiz
+The Hitchhiker's Guide to pySpark DataFrames | HackerNoon
+A Hackers' Guide to Language Models - YouTube
+Big Data - Hadoop & Spark Syllabus.pdf - Google Drive
+Top 50 PySpark Interview Questions and Answers - AnalyticsLearn
+Top 30 Latest Pyspark Interview Questions For Experienced - Datavalley
+Spark/Spark_Interview_Questions.md at main · shashank-mishra219/Spark
+data-engineering-interview-questions/content/spark.md at master · OBenner/data-engineering-interview-questions
+Best Practices and Performance Tuning for PySpark
+A Comprehensive Learning Path to Become a Data Engineer in 2022 - Analytics Vidhya
+Introducing Pandas UDF for PySpark | Databricks Blog
+Apache Spark Optimization Techniques and Performance Tuning
+Understanding Apache Spark on YARN | by Sujith Jay Nair | Logistimo Engineering Blog | Medium
+Avoid these at any cost in PySpark: | by Think Data | Medium
+Recommendations for the imaging assessment of prosthetic heart valves: a report from the European Association of Cardiovascular Imaging endorsed by the Chinese Society of Echocardiography, the Inter-American Society of Echocardiography, and the Brazilian Department of Cardiovascular Imaging† | European Heart Journal - Cardiovascular Imaging | Oxford Academic
+cartershanklin/pyspark-cheatsheet: PySpark Cheat Sheet - example code to help you learn PySpark and develop apps faster
+How To Easily Convert Your Images Into .webp With Python!
+New folder
+Top 10 Data Engineering Books - Just Understanding Data
+productHunt
+Atomic Learning - The easiest way to learn languages
+About Us | Meet The AI Buster Expert Team
+MySQL for Developers Course is Live - Laravel News
+MySQL for Developers course: Course introduction — PlanetScale
+SingleStore Kai™ | Turbocharge Real-Time Analytics on JSON
+Affinity Photo – award-winning photo editing software
+Create stunning visuals in seconds with AI.
+OBS Studio: Stream to multiple platforms or channels at once | OBS Forums
+Timemount | Time tracking and Productivity Monitoring
+Tinybird · The modern real-time analytics stack
+Slideoo: AI powered SaaS platform for quick Presentations
+Lofi.co - Craft your focus environment
+D-ID AI Video Generator: Creating AI Videos from Photos & Avatars
+Roame Travel | Free Travel Award Search
+TradingView — Track All Markets
+Paul Graham GPT
+Abstra | Custom internal tools
+fashion
+Shop Urban Shirts for Men Online in India at Beyoung X BB
+rust
+Virtualization, Docker, and Kubernetes for Data Engineering | Coursera
+Meet your Course Instructor: Alfredo Deza | Coursera
+Cloud Machine Learning Engineering and MLOps | Coursera
+MLOps Tools: MLflow and Hugging Face | Coursera
+Data Visualization with Python | Coursera
+Linux and Bash for Data Engineering | Coursera
+Spark, Hadoop, and Snowflake for Data Engineering | Coursera
+Cloud Virtualization, Containers and APIs | Coursera
+Cloud Data Engineering | Coursera
+Python Essentials for MLOps | Coursera
+DevOps, DataOps, MLOps | Coursera
+Web Applications and Command-Line Tools for Data Engineering | Coursera
+MLOps Platforms: Amazon SageMaker and Azure ML | Coursera
+Scripting with Python and SQL for Data Engineering | Coursera
+Cloud Computing Foundations | Coursera
+Noah Gift
+Practical MLOps: Operationalizing Machine... by Gift, Noah
+Python for DevOps: Learn Ruthlessly Effective Automation 1, Gift, Noah, Behrman, Kennedy, Deza, Alfredo, Gheorghiu, Grig, eBook - Amazon.com
+Amazon.com: Developing on AWS with C#: A Comprehensive Guide on Using C# to Build Solutions on the AWS Platform: 9781492095873: Gift, Noah, Charlesworth, James: Books
+Python and Pandas for Data Engineering | Coursera
+Pragmatic AI Labs - YouTube
+52 Weeks of Cloud
+Pragmatic AI Labs | Pragmatic AI Labs and Solutions
+Databricks SQL CLI | Databricks on AWS
+Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs
+Creating a bespoke LLM for AI- generated documentation | Databricks Blog
+Crypto nerd Sam Bankman-Fried, who just lost $16 billion, “would never read a book.” ‹ Literary Hub
+Learning Git: A Hands-On and Visual Guide to the Basics of Git: Skoulikari, Anna: 9781098133917: Amazon.com: Books
+Anna Skoulikari
+bitswired/rustgpt: RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
+Universe 2023: Copilot transforms GitHub into the AI-powered developer platform - The GitHub Blog
+Python environment setup seems complicated and unsolvable - Stack Overflow
+Rust for Data Engineering
+SceneXplain - Leading AI Solution for Image Captions and Video Summaries
+Qdrant FastEmbed Embeddings - LlamaIndex 🦙 0.9.7
+OpenGPTs
+langchain-ai/opengpts
+arunpshankar/LLM-Text-to-SQL-Architectures: A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to-SQL generation.
+Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions | by Arun Shankar | Google Cloud - Community | Nov, 2023 | Medium
+OpenAI & other LLM API Pricing Calculator - DocsBot AI
+DocsBot AI - Custom chatbots from your documentation
+AI Product Visualizer by Imajinn AI
+Imajinn AI - Profile Picture Photobooth
+An Introduction to Recommender Systems - YouTube
+1. Merge two Dataframes using PySpark | Top 10 PySpark Scenario Based Interview Question| - YouTube
+Priyam Jain
+[1hr Talk] Intro to Large Language Models - YouTube
+Building a Document-based Question Answering System with LangChain, Pinecone, and LLMs like GPT-4 and ChatGPT
+Semantic Search with OpenAI QA - SingleStore Spaces
+How to Build LLM Apps that can See Hear Speak - SingleStore Spaces
+SceneXplain - Leading AI Solution for Image Captions and Video Summaries
+Movie Recommendation - SingleStore Spaces
+Kafka Pipelines and Query Tuning - SingleStore Spaces
+Image Matching with SQL - SingleStore Spaces
+Mongo Atlas & SingleStore Kai - SingleStore Spaces
+Resume Evaluator - SingleStore Spaces
+Getting Started with DataFrames in SingleStoreDB - SingleStore Spaces
+Working with Vector Data - SingleStore Spaces
+MonsterAPI Blog
+Reach an audience of ML/AI professionals and enthusiasts.
+lancedb/vectordb-recipes: High quality resources & applications for LLMs, multi-modal models and VectorDBs
+One of the Most Critical Pillars of OOP is Missing from Python
+Press
+பிரிட்டன்: மிக மோசமான வறுமையின் பிடியில் நாற்பது இலட்சம் மக்கள் | வினவு
+The Hosting Platform Made For You - Go Online With Hostinger
+Car and Bike news and reviews in Tamil - Automobile Tamilan : ஆட்டோமொபைல் தமிழன்
+Tamil Blogs
+https://kadavulinkadavul.blogspot.com
+About
+Aravindh Sachidanandam | Writer, Script Writer, Script Consultant
+Analytical SQL - Running Total - Order by without Partition By - Oracle Database
+DR Test Backup and restore drill test – SQL Server Blog Forum
+Coding_Practice
+Curious Freaks Coding Sheet - Google Sheets
+Accounts
+EPFO
+Shooping
+banking
+Bank Regulation - What Is It, Objectives, Importance, Pros & Cons
+Investment Banking - What Is it, Explained, Types, How it Works?
+Investment Banking: What It Is, What Investment Bankers Do
+Top NatWest Competitors and Alternatives | Craft.co
+Getting started With Toad for Oracle - in-depth tutorial
+Gokhan Atil, Author at Toad World Blog
+Introduction to Oracle Supplied PL/SQL Packages & Types
+SEO
+Python for SEO: Complete Guide (in 9 Chapters) - JC Chouinard
+New folder
+Meditation
+Encord’s Blog | Unlock data-centric AI
+facebook/multi-token-prediction · Hugging Face
+APIGen Pipeline
+[2407.01502] AI Agents That Matter
+[2406.18665] RouteLLM: Learning to Route LLMs with Preference Data
+ADP - Vista ESS
+Genomics and other omics tools for enabling Medical Decisions (GOMED)
+Advanced SystemCare v6 Quick Start Guide
+Nuance - PDF, Customer Service, HIM, and Speech Recognition Solutions | Nuance
+McKinsey & Company | Global management consulting
+17 Pharma Companies Using Artificial Intelligence in Drug Discovery
+Perfect Resume Builder and more
+Shine.com - Create Profile | Step 2
+Resume Builder
+Synechron - Careers
+Google
+Google
+Google
+43 Free Courses That'll Improve Your Career - The Muse
+Branching Statements
+NAKSHATECH | About Us
+C Program to Implement Strassen’s Algorithm - Sanfoundry
+Working with objects - JavaScript | MDN
+Introducing JavaScript 6 - Arrow Functions
+The Modern Javascript Tutorial
+Tryit Editor v3.5
+Textboxes and Textareas in HTML Forms
+Building the Web Page Structure in HTML5 - Lesson #1
+RegExr: Learn, Build, & Test RegEx
+Biology News - Evolution, Cell theory, Gene theory, Microbiology, Biotechnology
+Upload Resume for Job, Submit your CV, Submit Resume | Randstad India
+Learn JavaScript - Best JavaScript Tutorials | Hackr.io
+Code Examples
+web crawler - WWW::Mechanize with Perl - Stack Overflow
+Apply For Internship Jobs | Internship For College Students - Letsintern
+Modern Frontend Developer in 2018 – tajawal – Medium
+Five Trends To Modernize The Data Center | Modern DC India | ESDS Official Knowledgebase
+Bangalore Jobs - Fresher & Experiece Jobs in Bangalore
+Java Platform Standard Edition 8 Documentation
+Musings of a deep learning student on a mission — Morning Deep Learning Lecture (9:10-9:40AM):...
+Blender Python tutorial - wrecking ball effect in 14 lines of code
+Simple web server watchdog · GitHub
+Showing off the systemd watchdog in Python · GitHub
+Learn_Data_Science_in_3_Months/README.md at master · llSourcell/Learn_Data_Science_in_3_Months · GitHub
+IthuNamma Karaikudi's Online Store in India | Instamojo
+youtube - Google Search
+Labelbox Case Studies
+A visual introduction to machine learning
+Introducing our Cultivating Algorithms Visualization | Stitch Fix Technology – Multithreaded
+www.r2d3.us/visual-intro-to-machine-learning-part-2/
+Block Protocol - Documentation
+Shuffle a list, string, tuple in Python (random.shuffle, sample) | note.nkmk.me
+Learn code online | A complete programming video tutorial site
+Vue.js Nation Conference
+Niyama API
+Rust: The Next Big Thing in Data Science | by Mahmoud 🦀 | Apr, 2023 | Towards Data Science
+Argparse Single Method
+How to Install the Citrix Reciever in Linux - YouTube
+Gmail
+
