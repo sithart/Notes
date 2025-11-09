@@ -1,0 +1,10 @@
+https://www.google.com/maps/place/Vee+Technologies/@11.6888281,78.1112543,17z/data=!3m1!4b1!4m5!3m4!1s0x3babf081ab367a7b:0x29af954071e6b3b6!8m2!3d11.688902!4d78.1134617?hl=en
+https://www.google.com/maps/place/Vee+Technologies+SEZ/@11.688828,78.1046882,15z/data=!4m9!1m2!2m1!1svee+technologies!3m5!1s0x3babfa71325163e5:0x33dc3eef3e03f7b9!8m2!3d11.6990536!4d78.1071591!15sChB2ZWUgdGVjaG5vbG9naWVzkgEQY29ycG9yYXRlX29mZmljZQ?hl=en
+https://www.google.com/maps/place/Sona+College+of+Technology+-+Engineering+College/@11.6782851,78.1223184,17z/data=!3m1!4b1!4m5!3m4!1s0x3babf065115b5f7d:0x1d08f4d05518b24d!8m2!3d11.6782851!4d78.1245071?hl=en
+https://www.google.com/maps/place/IBM+India/@12.9245534,77.5985686,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae6a6c7ca7d509:0xf86f19cde67a21b3!8m2!3d12.924306!4d77.600745?hl=en
+https://www.google.com/maps/place/SONA+VALLIAPPA+TEXTILE+MILLS+(P)+LTD/@12.9885389,77.5901094,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1669c16aaaab:0x99785e74f88122d7!8m2!3d12.9886313!4d77.5921814?hl=en
+https://www.google.com/maps/place/Zoho+Technologies+Pvt.+Ltd./@8.9025198,77.3335759,17z/data=!3m1!4b1!4m5!3m4!1s0x3b0428dfa96ee039:0x7198a68c14774a98!8m2!3d8.9025198!4d77.3357646?hl=en
+https://www.google.com/maps/place/Wells+Fargo+Center/@12.933244,77.6881294,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1177491c5c53:0xa0d4df75b689055c!8m2!3d12.933244!4d77.6903181?hl=en
+https://www.google.com/maps/place/JPMorgan+Chase+%26+Co./@12.9428771,77.694424,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae13b3907f1209:0x311a7b213162c6ab!8m2!3d12.942869!4d77.6966908?hl=en
+https://www.google.com/maps/place/Omega+Healthcare+(Head+Office)/@12.9542681,77.6510002,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae140a111aafcd:0x37a8823797944411!8m2!3d12.9542681!4d77.6531889?hl=en
+https://www.google.com/maps/place/Sun+Pharmaceutical+Industries+Limited/@13.0365756,77.5882213,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1796759068af:0x3dee712ea40aa47b!8m2!3d13.0365749!4d77.5904099?hl=en
