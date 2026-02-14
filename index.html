@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Notes | Study Repository</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #f8fafc; }
+        .category-card { transition: transform 0.2s; }
+        .category-card:hover { transform: translateY(-2px); }
+        .link-item:hover { color: #2563eb; text-decoration: underline; }
+    </style>
+</head>
+<body class="text-slate-800">
+
+    <header class="bg-slate-900 text-white py-10 shadow-lg">
+        <div class="container mx-auto px-6">
+            <h1 class="text-4xl font-bold">Simple Notes Study Repository</h1>
+            <p class="mt-2 text-slate-400">Self-worked example code and curated learning resources</p>
+            <nav class="mt-6 flex flex-wrap gap-4 text-sm font-medium">
+                <a href="#recent" class="bg-blue-600 px-4 py-2 rounded-md">Recent Updates</a>
+                <a href="#python" class="bg-slate-700 px-4 py-2 rounded-md">Python & Data</a>
+                <a href="#ai" class="bg-slate-700 px-4 py-2 rounded-md">AI & ML</a>
+                <a href="#web" class="bg-slate-700 px-4 py-2 rounded-md">Web Dev</a>
+                <a href="#systems" class="bg-slate-700 px-4 py-2 rounded-md">Systems/AWS</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-6 py-12">
+        
+        <section id="recent" class="mb-16">
+            <div class="bg-yellow-50 border-l-4 border-yellow-400 p-6 rounded-r-lg shadow-sm">
+                <h2 class="text-2xl font-bold mb-4 flex items-center">
+                    <span class="mr-2">🔥</span> Recent Links & Collections
+                </h2>
+                <div class="grid md:grid-cols-2 gap-4">
+                    <ul class="space-y-2">
+                        <li><a href="https://jalammar.github.io/" class="link-item">Jay Alammar (Visual ML)</a></li>
+                        <li><a href="https://unwindai.substack.com/archive?sort=top" class="link-item">Unwind AI</a></li>
+                        <li><a href="https://illustrated-machine-learning.github.io/" class="link-item">Illustrated Machine Learning</a></li>
+                    </ul>
+                    <ul class="space-y-2">
+                        <li><a href="https://vinija.ai/models/gpt/" class="link-item">Vinija AI - GPT Models</a></li>
+                        <li><a href="https://time.com/6247678/openai-chatgpt-kenya-workers/" class="link-item">OpenAI Kenyan Workers Investigation</a></li>
+                        <li><a href="https://spectrum.ieee.org/andrew-ng-data-centric-ai" class="link-item">Andrew Ng: Data Centric AI</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <div class="grid md:grid-cols-3 gap-8">
+            
+            <div id="python" class="space-y-8">
+                <h2 class="text-xl font-black uppercase tracking-widest text-blue-600 border-b-2 border-blue-100 pb-2">Python & Data Eng</h2>
+                
+                <div class="category-card bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-lg mb-3">Scraping & OCR</h3>
+                    <ul class="text-sm space-y-2 text-slate-600">
+                        <li><a href="https://github.com/invoice-x/invoice2data" class="link-item">invoice2data (PDF Invoices)</a></li>
+                        <li><a href="https://www.pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/" class="link-item">Tesseract & OpenCV OCR</a></li>
+                        <li><a href="https://nanonets.com/blog/receipt-ocr/amp/" class="link-item">Receipt Digitization</a></li>
+                        <li><a href="https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data" class="link-item">Top 20 Crawling Tools</a></li>
+                    </ul>
+                </div>
+
+                <div class="category-card bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-lg mb-3">Numpy & Pandas</h3>
+                    <ul class="text-sm space-y-2 text-slate-600">
+                        <li><a href="https://www.dropbox.com/s/7itbzzxe625ux5m/Numpy%20Handbook.pdf?dl=0" class="link-item">Numpy Handbook</a></li>
+                        <li><a href="https://www.enigma.com/blog/post/scaling-a-pandas-etl-job-to-600gb" class="link-item">Scaling Pandas to 600GB</a></li>
+                        <li><a href="https://www.dataquest.io/blog/regex-cheatsheet/" class="link-item">Python Regex Cheat Sheet</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="ai" class="space-y-8">
+                <h2 class="text-xl font-black uppercase tracking-widest text-purple-600 border-b-2 border-purple-100 pb-2">AI & Machine Learning</h2>
+                
+                <div class="category-card bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-lg mb-3">NLP & LLMs</h3>
+                    <ul class="text-sm space-y-2 text-slate-600">
+                        <li><a href="https://notebooks.quantumstat.com/" class="link-item">The Super Duper NLP Repo</a></li>
+                        <li><a href="https://kalyan-katikapalli.hashnode.dev/exploring-chatgpt-overview-training-and-limitations" class="link-item">Exploring ChatGPT Training</a></li>
+                        <li><a href="https://parl.ai/docs/index.html" class="link-item">ParlAI Documentation</a></li>
+                        <li><a href="https://github.com/michaelliao/learn-python3?files=1" class="link-item">Learn Python 3</a></li>
+                    </ul>
+                </div>
+
+                <div class="category-card bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-lg mb-3">Sagemaker & Vision</h3>
+                    <ul class="text-sm space-y-2 text-slate-600">
+                        <li><a href="https://cosminsanda.com/posts/counting-object-with-mxnet-and-sagemaker/" class="link-item">SageMaker Object Counting</a></li>
+                        <li><a href="https://github.com/eriklindernoren/ML-From-Scratch" class="link-item">ML From Scratch (GitHub)</a></li>
+                        <li><a href="https://www.lobe.ai/" class="link-item">Lobe.ai (No Code AI)</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="web" class="space-y-8">
+                <h2 class="text-xl font-black uppercase tracking-widest text-emerald-600 border-b-2 border-emerald-100 pb-2">Web Dev & Cloud</h2>
+                
+                <div class="category-card bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-lg mb-3">Vue & Tailwind</h3>
+                    <ul class="text-sm space-y-2 text-slate-600">
+                        <li><a href="https://tailblocks.cc/" class="link-item">Tailblocks (Tailwind UI)</a></li>
+                        <li><a href="https://vuejsdevelopers.com/blog/" class="link-item">VueJS Developers Blog</a></li>
+                        <li><a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/css/images" class="link-item">Tailwind Starter Kit</a></li>
+                    </ul>
+                </div>
+
+                <div class="category-card bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-lg mb-3">AWS & Serverless</h3>
+                    <ul class="text-sm space-y-2 text-slate-600">
+                        <li><a href="https://saleem.dev/blog/upload-files-to-s3-using-serverless-framework/" class="link-item">S3 + Serverless + Node</a></li>
+                        <li><a href="https://www.stackery.io/blog/authentication-aws-cognito/" class="link-item">AWS Cognito Auth</a></li>
+                        <li><a href="https://www.serverless.com/blog/cors-api-gateway-survival-guide" class="link-item">API Gateway CORS Guide</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+        <footer class="mt-20 pt-8 border-t border-slate-200 text-center text-slate-500 text-sm">
+            <p>Topics include: Rust, Swift, Quantum Computing, RPA, and 70+ categories of technical notes.</p>
+        </footer>
+    </main>
+</body>
+</html>
